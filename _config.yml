@@ -4,27 +4,27 @@ email: pavel@zheln.com
 description: "A blog to review recent systematic reviews."
 baseurl: ""
 url: "https://zheln.com/"
-title_description: "I check PubMed for updates in the Systematic Review Subset and critically assess the most appealing reviews. This is independent research and my primary job. Please support me on Patreon, where you can also learn more about myself."
-title_image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Black_Woodpecker.JPG"
+title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://p1m.org/ssb\">Systematic Review Subset</a> and critically assess the most appealing reviews. This is independent research and my primary job. Please support me on Patreon, where you can also learn more about myself."
+title_image: favicons/Black_Woodpecker.jpg
 google_analytics: "UA-122303329-3"
 disqus_account: 
 github_repository: https://github.com/drzhelnov/zheln.github.io
-addthis_id: 
+addthis_id: ra-5eb4ca836b1983cd
 post_limit: 5
 
 # Social usernames/URLs
 twitter_username: drzhelnov
 github_username: pussiatoday
-instagram_username: 
+instagram_username: igzheln
 reddit_username: 
 linkedin_link: 
 google_plus_link: 
 stackoverflow_link: 
 xing_link:
-facebook_link:
+facebook_link: https://www.facebook.com/drzhelnov
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>. Logo (Black Woodpecker) © N P Holmes, 2009—Licensed under CC BY-SA 4.0"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
