@@ -4,7 +4,7 @@ email: pavel@zheln.com
 description: "A blog to review recent systematic reviews."
 baseurl: ""
 url: "https://zheln.com/"
-title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://p1m.org/ssb\">Systematic Review Subset</a> and critically assess the most appealing reviews. This is independent research and my primary job. Please support me on Patreon, where you can also learn more about myself."
+title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://p1m.org/ssb\">Systematic Review Subset</a> and critically assess the most appealing reviews. This is independent research and my primary job. Please support me on <a href=\"https://patreon.com/zheln\">Patreon</a>, where you can also learn more about myself."
 title_image: favicons/Black_Woodpecker.jpg
 google_analytics: "UA-122303329-3"
 disqus_account: 
@@ -24,7 +24,7 @@ xing_link:
 facebook_link: https://www.facebook.com/drzhelnov
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>. Logo (Black Woodpecker) © N P Holmes, 2009—Licensed under CC BY-SA 4.0"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>.<br />Logo (Black Woodpecker) © <a href=\"https://commons.m.wikimedia.org/wiki/User:N_p_holmes\">N P Holmes</a>, 2009—Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>."
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
