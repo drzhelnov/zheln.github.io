@@ -4,7 +4,7 @@ email: pavel@zheln.com
 description: "A blog to review recent systematic reviews."
 baseurl: ""
 url: "https://zheln.com/"
-title_description: "Daily, I check [PubMed](https://pubmed.gov) for updates in the systematic review subset ([see methods](https://p1m.org/ssb)) and critically assess the most appealing reviews. I also categorize the posts, so please check the archive for your specialty. This is independent research, and I do it as my primary job, so the community support is essential. Please support me on Patreon, where you can also learn more about myself."
+title_description: "I check PubMed for updates in the Systematic Review Subset and critically assess the most appealing reviews. This is independent research and my primary job. Please support me on Patreon, where you can also learn more about myself."
 title_image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Black_Woodpecker.JPG"
 google_analytics: "UA-122303329-3"
 disqus_account: 
