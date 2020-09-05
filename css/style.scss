@@ -16,6 +16,7 @@ $instagram:      #cd486b;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
 $patreon:     #ffbf35;
+$telegram:         #5dbcd2;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
@@ -223,6 +224,10 @@ ul {
 
 	.fa-patreon:hover {
 		color: $patreon;
+	}
+
+	.fa-telegram:hover {
+		color: $telegram;
 	}
 }
 
