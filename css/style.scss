@@ -15,6 +15,7 @@ $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
+$patreon:     #ffbf35;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
@@ -218,6 +219,10 @@ ul {
 	
 	.fa-rss:hover {
 		color: $rss;
+	}
+
+	.fa-patreon:hover {
+		color: $patreon;
 	}
 }
 
