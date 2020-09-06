@@ -1,56 +1,13 @@
-# Carte Noire
+# Zheln
 
-A simple Jekyll theme for blogging. Not named after the coffee.
+![Woodpecker by Anton from The Noun Project](favicons/android-chrome-512x512.png)
 
-![Homepage](http://i.imgur.com/xlmHArV.png)
+Hi, this is [Zheln.com](https://zheln.com), a crowdfunding project. I check [PubMed](https://pubmed.gov) for updates in the [Systematic Review Subset](https://p1m.org/ssb) and critically assess the most appealing reviews. I named the project after the _zhelna_, the [black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker), who do the same thing I do: Hit to the core. This is independent research and my primary job.
 
-### Article
-![Article](http://i.imgur.com/8rD8FfC.png)
+Previously, I ran academic research as a medical school postgraduate while also working as a physician and a medical reviewer but quit to get rid of unfair agendas and fully devote myself to systematic reviews.
 
-### Disqus Comments
-![Comments](http://i.imgur.com/TBZHQwF.png)
+You can learn more about my research background from my academic profiles at [GitHub](https://github.com/drzhelnov), [OSF](https://osf.io/9c83x/), [ORCID](https://orcid.org/0000-0003-2767-5123), [LinkedIn](https://www.linkedin.com/in/pavel-zhelnov-382073182), [Google Scholar](https://scholar.google.com/citations?user=b421BNkAAAAJ), & [ResearchGate](https://researchgate.net/profile/Pavel_Zhelnov). Also, feel free to get in touch either by [email](mailto:pavel@zheln.com) or on [Telegram](https://t.me/drzhelnov).
 
-### Posts grouped by year
-![All Posts](http://i.imgur.com/9bNs2Sc.png)
+I currently reside with my dearest wife in the most beautiful city of Saint Petersburg, Russia. In my spare time, I go out or watch anime / listen to opera with friends & family. 🌚
 
-### JavaScript Search
-![Search](http://i.imgur.com/yQqMeSl.png)
-
-### Menu by mmenu
-![Menu](http://i.imgur.com/SClrNSH.png)
-
-## Contact
-If you wish to contact me regarding this theme please raise an issue on GitHub,
-tweet me [@_jacobtomlinson](http://www.twitter.com/_jacobtomlinson) or email me
-[jacob@jacobtomlinson.co.uk](mailto:jacob@jacobtomlinson.co.uk).
-
-## Contribution
-Pull requests are very welcome.
-
-## Theme
-This jekyll theme has been created from scratch. Ideas and inspiration are taken
-from other places but the code is my own.
-
-## Tools and Libraries
-The following tools and libraries are used in this theme
-
-### JavaScript
- * [jQuery](http://jquery.com/)
- * [MMenu](http://mmenu.frebsite.nl/)
- * [HighlightJS](https://highlightjs.org/)
- * [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-
-### CSS
- * [Bootstrap](http://getbootstrap.com/)
- * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-
-### Social
- * [AddThis](http://www.addthis.com/)
- * [Disqus](https://disqus.com/)
-
-### Other
- * [Real Favicon Generator](http://realfavicongenerator.net/)
- * [Google Analytics](http://www.google.com/analytics/)
-
-## License
-The jekyll theme, HTML, CSS and JavaScript is licensed under GPLv3 (unless stated otherwise in the file).
+Also, I’m an avid fan of **Star Wars**!
