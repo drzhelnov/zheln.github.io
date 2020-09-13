@@ -49,7 +49,7 @@ make-smaller-titles: false
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
                   {% for status_tag in site.status_tags %}
-                  {% if status_tag == tag | first %}
+                  {% if status_tag == tag[0] %}
                   status `{{ tag | first }}`
                   {% else %}
 
