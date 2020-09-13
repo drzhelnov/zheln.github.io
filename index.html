@@ -30,7 +30,7 @@ make-smaller-titles: false
               <ul>
                   {% for post in paginator.posts %}
                   {% for tag in post.tags %}
-                  {% if tag contains "appraisal in progress" %}
+                  {% if tag | first == "appraisal in progress" %}
 
                       <li>
                           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
