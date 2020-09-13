@@ -48,8 +48,7 @@ make-smaller-titles: false
                   <i class="fa fa-tags"></i>
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
-                  {% for status_tag in site.status_tags %}
-                  {% if status_tag == tag[0] %}
+                  {% if site.status_tags contains tag[0] %}
                   status `{{ tag | first }}`
                   {% else %}
 
@@ -59,7 +58,6 @@ make-smaller-titles: false
                   {% endif %}
                     
                   {% endif %}
-                  {% endfor %} 
                   {% endfor %}  
                   </small> 
               </div>
