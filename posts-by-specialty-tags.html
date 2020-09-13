@@ -25,7 +25,7 @@ make-smaller-titles: true
     </small></h2>
       {% assign tags = site.tags | sort %}
       {% for tag in tags %}
-      {% if site.status_tags | find_exp:"item", "item == tag | first" %}
+      {% if site.status_tags contains tag[0] %}
       {% else %}
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ tag | first }}-ref">{{ tag | first }}</h2>

@@ -23,9 +23,8 @@ make-smaller-titles: true
       </div>
 
     </small></h2>
-      {% for status_tag in site.status_tags %}
       {% for tag in site.tags %}
-      {% if status_tag == tag | first %}
+      {% if site.status_tags contains tag[0] %}
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ tag }}-ref">{{ tag }}</h2>
         <ul>
@@ -41,7 +40,6 @@ make-smaller-titles: true
         </ul>
       </div>
       {% endif %}
-      {% endfor %}
       {% endfor %}
 
   </div>

@@ -49,7 +49,6 @@ make-smaller-titles: false
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
                   {% if site.status_tags contains tag[0] %}
-                  status `{{ tag | first }}`
                   {% else %}
 
                   <a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
