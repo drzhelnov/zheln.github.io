@@ -12,22 +12,25 @@ make-smaller-titles: true
     <h2 class="header categories" itemprop="headline"><small>Grouped by
 
       <div class="dropdown btn-group">
-        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Categories
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Tags
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu">
           <li><a href="{{ site.baseurl }}/posts/">Years</a></li>
-          <li><a href="{{ site.baseurl }}/posts-by-specialty-tags/">AMA Specialty Tags</a></li>
+          <li><a href="{{ site.baseurl }}/posts-by-categories/">Categories</a></li>
           <li><a href="{{ site.baseurl }}/posts-by-status-tags/">Record Status Tags</a></li>
         </ul>
       </div>
 
     </small></h2>
-      {% for category in site.categories %}
+      {% assign tags = site.tags | sort %}
+      {% for tag in tags %}
+      {% if site.status_tags contains tag[0] %}
+      {% else %}
       <div class="col-md-12 content-panel articles">
-        <h2 id="{{ category | first }}-ref">{{ category | first }}</h2>
+        <h2 id="{{ tag | first }}-ref">{{ tag | first }}</h2>
         <ul>
-          {% for posts in category %}
+          {% for posts in tag %}
             {% for post in posts %}
               <li>
                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -38,6 +41,7 @@ make-smaller-titles: true
 
         </ul>
       </div>
+      {% endif %}
       {% endfor %}
 
   </div>

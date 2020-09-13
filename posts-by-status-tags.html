@@ -18,11 +18,12 @@ make-smaller-titles: true
         <ul class="dropdown-menu">
           <li><a href="{{ site.baseurl }}/posts/">Years</a></li>
           <li><a href="{{ site.baseurl }}/posts-by-categories/">Categories</a></li>
+          <li><a href="{{ site.baseurl }}/posts-by-specialty-tags/">AMA Specialty Tags</a></li>
         </ul>
       </div>
 
     </small></h2>
-      {% for tag in site.tags %}
+      {% for tag in site.status_tags %}
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ tag | first }}-ref">{{ tag | first }}</h2>
         <ul>
