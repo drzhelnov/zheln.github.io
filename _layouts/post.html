@@ -98,7 +98,7 @@ layout: default
           {% for tag in site.tags %}
 
             <a href="{{ site.baseurl }}/posts-by-tags/#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
-            {% if !forloop.last %}
+            {% if forloop.last == false %}
             <span>,</span>
             {% endif %}
 
