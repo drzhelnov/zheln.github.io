@@ -48,7 +48,7 @@ make-smaller-titles: false
                   <i class="fa fa-tags"></i>
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
-                  {% if site.status_tags contains "awaiting appraisal" %}
+                  {% if site.status_tags contains tag | first %}
                   {% else %}
 
                   <a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
