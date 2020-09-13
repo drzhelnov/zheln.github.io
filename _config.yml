@@ -12,10 +12,10 @@ github_repository: https://github.com/drzhelnov/zheln.github.io
 addthis_id: ra-5eb4ca836b1983cd
 post_limit: 3
 status_tags:
-  - awaiting appraisal
-  - awaiting crowdfunding
-  - appraisal in progress
-  - appraisal complete
+  - Awaiting Appraisal
+  - Awaiting Crowdfunding
+  - Appraisal in Progress
+  - Appraisal Complete
 
 # Social usernames/URLs
 twitter_username: drzhelnov
