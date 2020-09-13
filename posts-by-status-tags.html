@@ -12,7 +12,7 @@ make-smaller-titles: true
     <h2 class="header categories" itemprop="headline"><small>Grouped by
 
       <div class="dropdown btn-group">
-        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Tags
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Record Status Tags
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu">
@@ -25,7 +25,7 @@ make-smaller-titles: true
     </small></h2>
       {% for tag in site.status_tags %}
       <div class="col-md-12 content-panel articles">
-        <h2 id="{{ tag | first }}-ref">{{ tag | first }}</h2>
+        <h2 id="{{ tag }}-ref">{{ tag }}</h2>
         <ul>
           {% for posts in tag %}
             {% for post in posts %}
