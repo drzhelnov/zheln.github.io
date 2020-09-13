@@ -46,7 +46,7 @@ make-smaller-titles: false
               <div class="tags">
                   <small>
                   <i class="fa fa-tags"></i>
-                  {% assign tags = site.tags | sort: 'tag' %}
+                  {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
                     
                   <a href="{{ site.baseurl }}/posts-by-tags/#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
