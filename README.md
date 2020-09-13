@@ -1,5 +1,7 @@
 # Zheln
 
+[![Build Status](https://travis-ci.com/drzhelnov/zheln.github.io.svg?branch=gh-pages)](https://travis-ci.com/drzhelnov/zheln.github.io)
+
 ![Woodpecker by Anton from The Noun Project](favicons/android-chrome-512x512.png)
 
 Hi, this is Pavel Zhelnov. I founded [Zheln.com](https://zheln.com), a crowdfunding project, where I check [PubMed](https://pubmed.gov) for updates in the [Systematic Review Subset](https://p1m.org/ssb) and critically assess the most appealing reviews. I named the project after the _zhelna_, the [black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker), who do the same thing I do: Hit to the core. This is independent research and my primary job, so please consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln) or via [PayPal](https://paypal.me/pjelnov).
