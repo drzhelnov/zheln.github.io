@@ -25,19 +25,41 @@ make-smaller-titles: false
 
             <div class="articles">
 
-              <h2>Latest Articles</h2>
+              <h2>Review Appraisals in Progress</h2>
 
               <ul>
-                  {% for post in site.posts limit: site.post_limit %}
+                  {% for post in paginator.posts %}
+                  {% for tag in post.tags %}
+                  {% if tag | first == "appraisal in progress" %}
 
                       <li>
                           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
                       </li>
 
+                  {% endif %}
+                  {% endfor %}
                   {% endfor %}
                   <li>
-                      <small><i><a href="{{ site.baseurl }}/posts/">more...</a></i></small>
+                    <small>
+                    {% if paginator.previous_page %}
+                        <a href="{{ paginator.previous_page_path }}">Previous</a>
+                    {% else %}
+                        <span>Previous</span>
+                    {% endif %}
+                    </small>
+                    <small>
+                    <span>
+                        Page: {{ paginator.page }} of {{ paginator.total_pages }}
+                    </span>
+                    </small>
+                    <small>
+                    {% if paginator.next_page %}
+                        <a href="{{ paginator.next_page_path }}">Next</a>
+                    {% else %}
+                        <span>Next</span>
+                    {% endif %}
+                    </small>
                   </li>
               </ul>
 
