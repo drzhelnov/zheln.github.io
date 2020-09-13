@@ -97,7 +97,11 @@ layout: default
           <i class="fa fa-tags"></i>
           {% for tag in site.tags %}
 
-            <a href="{{ site.baseurl }}/posts-by-tags/#{{ tag[0] | slugify }}-ref">{{ tag[0] }}</a>
+            {% if site.status_tags contains tag | first %}  
+            <a href="{{ site.baseurl }}/posts-by-status-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
+            {% else %}
+            <a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
+            {% endif %}
             {% if forloop.last == false %}
             <span>,</span>
             {% endif %}
