@@ -12,21 +12,21 @@ make-smaller-titles: true
     <h2 class="header categories" itemprop="headline"><small>grouped by
 
       <div class="dropdown btn-group">
-        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Categories
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Tags
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu">
           <li><a href="{{ site.baseurl }}/posts/">Years</a></li>
-          <li><a href="{{ site.baseurl }}/posts-by-tags/">Tags</a></li>
+          <li><a href="{{ site.baseurl }}/posts-by-categories/">Categories</a></li>
         </ul>
       </div>
 
     </small></h2>
-      {% for category in site.categories %}
+      {% for tag in site.tags %}
       <div class="col-md-12 content-panel articles">
-        <h2 id="{{ category | first }}-ref">{{ category | first }}</h2>
+        <h2 id="{{ tag | first }}-ref">{{ tag | first }}</h2>
         <ul>
-          {% for posts in category %}
+          {% for posts in tag %}
             {% for post in posts %}
               <li>
                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

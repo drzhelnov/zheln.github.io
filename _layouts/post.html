@@ -95,7 +95,14 @@ layout: default
         <div class="tags">
           <small>
           <i class="fa fa-tags"></i>
-            {{ page.tags | join: ', ' }}
+          {% for tag in site.tags %}
+
+            <a href="{{ site.baseurl }}/posts-by-tags/#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+            {% if !forloop.last %}
+            <span>,</span>
+            {% endif %}
+
+          {% endfor %}
           </small>
         </div>
         {% endif %}
