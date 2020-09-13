@@ -25,7 +25,7 @@ make-smaller-titles: true
     </small></h2>
       {% for category in site.categories %}
       <div class="col-md-12 content-panel articles">
-        <h2 id="{{ category | first }}-ref">{{ category | first }}</h2>
+        <h2 id="{{ category | first | slugify }}-ref">{{ category | first }}</h2>
         <ul>
           {% for posts in category %}
             {% for post in posts %}

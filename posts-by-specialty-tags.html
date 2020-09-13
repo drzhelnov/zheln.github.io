@@ -28,7 +28,7 @@ make-smaller-titles: true
       {% if site.status_tags contains tag[0] %}
       {% else %}
       <div class="col-md-12 content-panel articles">
-        <h2 id="{{ tag | first }}-ref">{{ tag | first }}</h2>
+        <h2 id="{{ tag | first | slugify }}-ref">{{ tag | first }}</h2>
         <ul>
           {% for posts in tag %}
             {% for post in posts %}
