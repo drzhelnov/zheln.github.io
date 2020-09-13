@@ -48,7 +48,7 @@ make-smaller-titles: false
                   <i class="fa fa-tags"></i>
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
-                  {% if site.status_tags | find:"item", "tag | first" %}
+                  {% if site.status_tags | find_exp:"item", "item == tag | first" %}
                   {% else %}
 
                   <a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
