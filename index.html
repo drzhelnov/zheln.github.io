@@ -41,19 +41,38 @@ make-smaller-titles: false
                   </li>
               </ul>
 
-              <h2>AMA Specialty & Record Status Tags</h2>
+              <h2>AMA Specialty Tags</h2>
               
               <div class="tags">
                   <small>
                   <i class="fa fa-tags"></i>
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
-                    
-                  <a href="{{ site.baseurl }}/posts-by-tags/#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+                  {% if site.status_tags contains tag %}
+                  {% else %}
+
+                  <a href="{{ site.baseurl }}/posts-by-tags/#{{ tag | slugify }}">{{ tag }}</a>
                   {% if forloop.last == false %}
                   <span>,</span>
                   {% endif %}
                     
+                  {% endif %}
+                  {% endfor %}  
+                  </small> 
+              </div>
+
+              <h2>Record Status Tags</h2>
+              
+              <div class="tags">
+                  <small>
+                  <i class="fa fa-tags"></i>
+                  {% for tag in site.status_tags %}
+
+                  <a href="{{ site.baseurl }}/posts-by-tags/#{{ tag | slugify }}">{{ tag }}</a>
+                  {% if forloop.last == false %}
+                  <span>,</span>
+                  {% endif %}
+                  
                   {% endfor %}  
                   </small> 
               </div>
