@@ -10,7 +10,7 @@ google_analytics: "UA-122303329-3"
 disqus_account: 
 github_repository: https://github.com/drzhelnov/zheln.github.io
 addthis_id: ra-5eb4ca836b1983cd
-post_limit: 5
+post_limit: 3
 
 # Social usernames/URLs
 twitter_username: drzhelnov
