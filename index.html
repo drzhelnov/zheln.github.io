@@ -48,11 +48,10 @@ make-smaller-titles: false
                   <i class="fa fa-tags"></i>
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
-                  {% assign the_tag = tag | first %}
-                  {% if site.status_tags contains the_tag %}
+                  {% if site.status_tags contains "awaiting appraisal" %}
                   {% else %}
 
-                  <a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ the_tag | slugify }}-ref">{{ the_tag }}</a>
+                  <a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
                   {% if forloop.last == false %}
                   <span>,</span>
                   {% endif %}
