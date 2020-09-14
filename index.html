@@ -32,9 +32,10 @@ tag_header: Awaiting Appraisal
               <ul>
                   {% assign record_count = 0 %}
                   {% for post in paginator.posts %}
+                  {% assign record_count = record_count | plus: 1 %}
                   {% if post.tags contains page.status_tag %}
                       
-                      {% assign record_count = record_count | plus: 1 %}
+                      
                       <li>
                           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
