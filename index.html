@@ -46,6 +46,7 @@ tag_header: Awaiting Appraisal
                   {% assign per_page = paginator.per_page | times: 1.0 %}
                   {% assign page_count = record_count | divided_by: per_page %}
                   {% assign page_count = page_count | ceil %}
+                  {{ record_count }} {{ per_page }} {{ page_count }}
                   {% if page_count > 1 %}
                   <li>
                         <small>
