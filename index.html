@@ -27,28 +27,19 @@ tag_header: Awaiting Appraisal
 
             <div class="articles">
 
-              <h2>{{ page.tag_header }}</h2>
+              <h2>Latest Appraisal Summaries</h2>
 
-              <ul>
-                  {% assign record_count = 0 %}
+              <ul>                 
                   {% for post in paginator.posts %}
-                  {% assign record_count = record_count | plus: 1 %}
-                  {% if post.tags contains page.status_tag %}
-                      
-                      
+                
                       <li>
                           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
                       </li>
 
-                  {% endif %}
                   {% endfor %}
 
-                  {% assign per_page = paginator.per_page | times: 1.0 %}
-                  {% assign page_count = record_count | divided_by: per_page %}
-                  {% assign page_count = page_count | ceil %}
-                  {{ record_count }} {{ per_page }} {{ page_count }}
-                  {% if page_count > 1 %}
+                  {% if paginator.total_pages > 1 %}
                   <li>
                         <small>
                         {% if paginator.previous_page %}
@@ -58,9 +49,9 @@ tag_header: Awaiting Appraisal
                         {% endif %}
                         </small>
 
-                        {% for page in (1..page_count) %}
+                        {% for page in (1..paginator.total_pages) %}
                             {% if page == paginator.page %}
-                            <em>{{ page }}</em>
+                            <strong>{{ page }}</strong>
                             {% elsif page == 1 %}
                             <a href="{{ '/' | relative_url }}">{{ page }}</a>
                             {% else %}
