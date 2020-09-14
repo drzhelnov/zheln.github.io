@@ -5,7 +5,7 @@ description: "A blog to review recent systematic reviews."
 baseurl: ""
 url: "https://zheln.com/"
 title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://p1m.org/ssb\">Systematic Review Subset</a> and critically assess the most appealing reviews. This is independent research and my primary job. Please support me on <a href=\"https://patreon.com/zheln\">Patreon</a>, where you can also learn more about myself."
-title_image: favicons/android-chrome-512x512.png
+title_image: /favicons/android-chrome-512x512.png
 google_analytics: "UA-122303329-3"
 disqus_account: 
 github_repository: https://github.com/drzhelnov/zheln.github.io
