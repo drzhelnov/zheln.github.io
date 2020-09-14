@@ -31,7 +31,7 @@ make-smaller-titles: false
                   {% for post in paginator.posts %}
                 
                       <li>
-                          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          <small><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></small>
                           <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
                       </li>
 
@@ -43,7 +43,7 @@ make-smaller-titles: false
                         {% if paginator.previous_page %}
                         <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Older</a>
                         {% else %}
-                            <span>&laquo; Prev</span>
+                            <span>&laquo; Older</span>
                         {% endif %}
                         </small>
 
@@ -61,7 +61,7 @@ make-smaller-titles: false
                         {% if paginator.next_page %}
                             <a href="{{ paginator.next_page_path | relative_url }}">Newer &raquo;</a>
                         {% else %}
-                            <span>Next &raquo;</span>
+                            <span>Newer &raquo;</span>
                         {% endif %}
                         </small>
                   
