@@ -33,7 +33,7 @@ status_tag: appraisal in progress
                   {% for post in paginator.posts %}
                   {% if post.tags contains page.status_tag %}
                       
-                      {% assign record_count = record_count | plus:1 %}
+                      {% assign record_count = record_count | plus: 1 %}
                       <li>
                           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
@@ -42,7 +42,8 @@ status_tag: appraisal in progress
                   {% endif %}
                   {% endfor %}
 
-                  {% assign page_count = record_count / paginator.per_page | ceil %}
+                  {% assign per_page = paginator.per_page | times: 1.0 %}
+                  {% assign page_count = record_count | divided_by: per_page | ceil %}
                   {% if page_count > 1 %}
                   <li>
                         <small>
