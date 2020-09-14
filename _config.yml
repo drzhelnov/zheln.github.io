@@ -11,7 +11,7 @@ disqus_account:
 github_repository: https://github.com/drzhelnov/zheln.github.io
 addthis_id: ra-5eb4ca836b1983cd
 post_limit: 3
-paginate: 1
+paginate: 4
 status_tags:
   - awaiting appraisal
   - awaiting crowdfunding
