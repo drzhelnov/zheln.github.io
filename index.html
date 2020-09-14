@@ -1,6 +1,7 @@
 ---
 layout: default
 make-smaller-titles: false
+status_tag: appraisal in progress
 ---
 
 
@@ -29,8 +30,7 @@ make-smaller-titles: false
 
               <ul>
                   {% for post in paginator.posts %}
-                  {% for tag in post.tags %}
-                  {% if tag | first == "appraisal in progress" %}
+                  {% if post.tags contains page.status_tag %}
 
                       <li>
                           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -39,28 +39,37 @@ make-smaller-titles: false
 
                   {% endif %}
                   {% endfor %}
-                  {% endfor %}
+
+                  {% if paginator.total_pages > 1 %}
                   <li>
-                    <small>
-                    {% if paginator.previous_page %}
-                        <a href="{{ paginator.previous_page_path }}">Previous</a>
-                    {% else %}
-                        <span>Previous</span>
-                    {% endif %}
-                    </small>
-                    <small>
-                    <span>
-                        Page: {{ paginator.page }} of {{ paginator.total_pages }}
-                    </span>
-                    </small>
-                    <small>
-                    {% if paginator.next_page %}
-                        <a href="{{ paginator.next_page_path }}">Next</a>
-                    {% else %}
-                        <span>Next</span>
-                    {% endif %}
-                    </small>
+                        <small>
+                        {% if paginator.previous_page %}
+                        <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+                        {% else %}
+                            <span>&laquo; Prev</span>
+                        {% endif %}
+                        </small>
+
+                        {% for page in (1..paginator.total_pages) %}
+                            {% if page == paginator.page %}
+                            <em>{{ page }}</em>
+                            {% elsif page == 1 %}
+                            <a href="{{ '/' | relative_url }}">{{ page }}</a>
+                            {% else %}
+                            <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+                            {% endif %}
+                        {% endfor %}
+
+                        <small>
+                        {% if paginator.next_page %}
+                            <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+                        {% else %}
+                            <span>Next &raquo;</span>
+                        {% endif %}
+                        </small>
+                  
                   </li>
+                  {% endif %}
               </ul>
 
               <h2>AMA Specialty Tags</h2>
