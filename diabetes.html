@@ -1,0 +1,50 @@
+---
+layout: default
+make-smaller-titles: true
+specialty_tag: diabetes
+---
+
+
+<div class="container-fluid index">
+  <div class="row index all-posts">
+
+    <h1 class="header author-header">{{ site.title }}</h1>
+    <h2 class="header" itemprop="headline">AMA Specialty</h2>
+
+      {% for tag in site.tags %}
+      {% if tag contains page.specialty_tag %}
+      <div id="search-container">
+        <input type="text" id="search-input" placeholder="Type here...">
+         <div class="col-md-12 content-panel articles">
+            <h2 id="{{ tag | first | slugify }}-ref">{{ tag | first }}</h2>
+             <ul id="results-container">
+          {% for posts in tag %}
+            {% for post in posts %}
+              <li>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+              </li>
+            {% endfor %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+      {% endif %}
+      {% endfor %}
+
+<script src="{{ site.baseurl }}/js/jekyll-search.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  SimpleJekyllSearch.init({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    dataSource: '{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
+    noResultsText: 'No results found',
+    limit: 10,
+    fuzzy: true,
+  })
+</script>
+
+  </div>
+</div>
