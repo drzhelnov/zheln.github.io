@@ -41,9 +41,9 @@ make-smaller-titles: true
                   <li>
                         <small>
                         {% if paginator.previous_page %}
-                        <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Older</a>
+                        <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
                         {% else %}
-                            <span>&laquo; Older</span>
+                            <span>&laquo; Newer</span>
                         {% endif %}
                         </small>
 
@@ -59,9 +59,9 @@ make-smaller-titles: true
 
                         <small>
                         {% if paginator.next_page %}
-                            <a href="{{ paginator.next_page_path | relative_url }}">Newer &raquo;</a>
+                            <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
                         {% else %}
-                            <span>Newer &raquo;</span>
+                            <span>Older &raquo;</span>
                         {% endif %}
                         </small>
                   
@@ -72,19 +72,19 @@ make-smaller-titles: true
               <h2>AMA Specialty Tags</h2>
               
               <div class="tags">
-                  <small><ul>
+                  <ul>
                   {% assign tags = site.tags | sort %}
                   {% for tag in tags %}
                   {% if site.status_tags contains tag[0] %}
                   {% else %}
-                  <li>
+                  <li><small>
                   <i class="fa fa-tags"></i><a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ tag | first | slugify }}-ref">{{ tag | first | capitalize }}</a>
                   {% if forloop.last == false %}
                   {% endif %}
-                  </li>
+                  </small></li>
                   {% endif %}
                   {% endfor %}  
-                  </ul></small> 
+                  </ul>
               </div>
 
               <h2>Record Status Tags</h2>
