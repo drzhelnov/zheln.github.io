@@ -87,22 +87,6 @@ make-smaller-titles: true
                   </ul>
               </div>
 
-              <h2>Record Status Tags</h2>
-              
-              <div class="tags">
-                  <small>
-                  <i class="fa fa-tags"></i>
-                  {% for tag in site.status_tags %}
-
-                  <a href="{{ site.baseurl }}/posts-by-status-tags/#{{ tag | slugify }}-ref">{{ tag }}</a>
-                  {% if forloop.last == false %}
-                  <span>,</span>
-                  {% endif %}
-                  
-                  {% endfor %}  
-                  </small> 
-              </div>
-
             </div>
 
         </div>
