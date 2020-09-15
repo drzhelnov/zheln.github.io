@@ -95,16 +95,10 @@ layout: default
         <div class="tags">
           <small>
           <i class="fas fa-tasks"></i>
-          {% assign i = 0 %}
           {% for tag in site.tags %}
-          {% for status_tag in site.status_tags %}
-            {% if tag contains status_tag %}
-            {% if i == 0 %}
-              {% assign i = i | plus: 1 %}
+            {% if site.status_tags contains tag[0] %}
               <strong>{{ tag | first | capitalize }}</strong>  
             {% endif %}
-            {% endif %}
-          {% endfor %}
           {% endfor %}
           </small>
         </div>
