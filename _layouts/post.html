@@ -115,7 +115,7 @@ layout: default
               {% if forloop.first == false %}
                 <span>,</span>
               {% endif %}
-              <a href="{{ site.baseurl }}/{{ tag | first | slugify }}">{{ tag | capitalize }}</a>
+              <a href="{{ site.baseurl }}/{{ tag | slugify }}">{{ tag | capitalize }}</a>
             {% endif %}
 
           {% endfor %}
