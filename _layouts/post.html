@@ -27,7 +27,7 @@ layout: default
 
       <div class="author">
         <small><i>
-          {% if page.categories != empty %}{% for category in page.categories limit:1 %}{{ category | capitalize }}{% endfor %}{% endif %} on <span itemprop="datePublished" content="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</span>
+          {% if page.categories != empty %}{% for category in page.categories limit:1 %}{{ category | capitalize }} #{{ page.name }}{% endfor %}{% endif %} on <span itemprop="datePublished" content="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</span>
         </i></small>
       </div>
 
