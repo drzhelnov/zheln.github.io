@@ -18,7 +18,7 @@ status_tags:
   - appraisal in progress
   - appraisal complete
 search_placeholder: "Type a systematic review PMID, DOI, title, etc."
-search_results_container: "Start typing to find an appraisal of a systematic review"
+search_results_container: "Start typing to find an appraisal of a systematic review. Only the first 10 records will be displayed."
 specialty_page_headline: "By AMA Specialty"
 
 # Social usernames/URLs
