@@ -102,7 +102,9 @@ layout: default
           {% endfor %}
           </small>
         </div>
+        {% endif %}
 
+        {% if page.tags and page.tags.size > 1 %}
         <div class="tags">
           <small>
           <i class="fa fa-tags"></i>
