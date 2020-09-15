@@ -35,7 +35,7 @@ xing_link:
 facebook_link: https://www.facebook.com/drzhelnov
 
 # Footer
-footer_left: "Website template Carte Noire made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>—Licensed under <a href\"https://raw.githubusercontent.com/jacobtomlinson/carte-noire/gh-pages/LICENSE\">GPL v3</a>.<br />Original Woodpecker Icon by <a href=\"https://thenounproject.com/parkasever/\">Anton</a>—Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode\">CC BY 3.0</a>."
+footer_left: "Website template Carte Noire made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>—Licensed under <a href=\"https://raw.githubusercontent.com/jacobtomlinson/carte-noire/gh-pages/LICENSE\">GPL v3</a>.<br />Original Woodpecker Icon by <a href=\"https://thenounproject.com/parkasever/\">Anton</a>—Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode\">CC BY 3.0</a>."
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i><br />&copy; <a href=\"https://zheln.com\">Zheln</a>, 2020"
 
 # Build settings
