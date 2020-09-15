@@ -8,7 +8,7 @@ specialty_header: "Endocrinology, diabetes, & metabolism"
 <div class="container-fluid index">
   <div class="row index all-posts">
     <h1 class="header author-header">{{ site.title }}</h1>
-    <h2 class="header" itemprop="headline">AMA Specialty</h2>
+    <h2 class="header" itemprop="headline">{{ site.specialty_page_headline }}</h2>
       {% for tag in site.tags %}
       {% if tag contains page.specialty_tag %}
       <div class="col-md-12 content-panel articles">

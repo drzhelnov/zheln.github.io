@@ -5,12 +5,12 @@ layout: default
 <div class="container-fluid index">
   <div class="row index all-posts">
 
-    <h1 class="header author-header">Search</h1>
+    <h1 class="header author-header">Zheln Search</h1>
 
     <div id="search-container">
-      <input type="text" id="search-input" placeholder="Type here...">
+      <input type="text" id="search-input" placeholder="{{ site.search_placeholder }}">
       <div class="col-md-12 content-panel articles">
-        <ul id="results-container"><small>Start typing to see some results</small></ul>
+        <ul id="results-container"><small>{{ site.search_results_container }}</small></ul>
       </div>
     </div>
 
@@ -27,7 +27,7 @@ layout: default
     resultsContainer: document.getElementById('results-container'),
     dataSource: '{{ site.baseurl }}/search.json',
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
-    noResultsText: 'No results found',
+    noResultsText: 'No appraisals found',
     limit: 10,
     fuzzy: true,
   })

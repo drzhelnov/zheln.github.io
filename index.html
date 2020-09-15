@@ -25,7 +25,7 @@ make-smaller-titles: false
 
             <div class="articles">
 
-              <h2>Latest Appraisal Summaries</h2>
+              <h2>Latest Systematic Review Appraisal Summaries</h2>
 
               <ul>                 
                   {% for post in paginator.posts %}
@@ -96,9 +96,9 @@ make-smaller-titles: false
 
         <div class="index all-posts">
                 
-                    <input type="text" id="search-input" placeholder="Type in a PMID, DOI, title, etc.">
+                    <input type="text" id="search-input" placeholder="{{ site.search_placeholder }}">
                     <div class="col-md-12 content-panel articles">
-                    <ul id="results-container"><small>Start typing to find an appraisal</small></ul>
+                    <ul id="results-container"><small>{{ site.search_results_container }}</small></ul>
                     </div>
                 
         </div>
