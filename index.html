@@ -78,7 +78,7 @@ make-smaller-titles: false
                   {% for tag in tags %}
                     {% if site.status_tags contains tag[0] %}
                     {% else %}
-                        <a href="{{ site.baseurl }}/{{ tag | first | slugify }}">{{ tag | first }}</a>
+                        <a href="{{ site.baseurl }}/{{ tag | first | slugify }}">{{ tag | first | capitalize }}</a>
                         {% if forloop.last == false %}
                         <span>,</span>
                         {% endif %}
