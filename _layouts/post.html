@@ -94,13 +94,28 @@ layout: default
         {% if page.tags and page.tags.size > 0 %}
         <div class="tags">
           <small>
+          <i class="fas fa-tasks"></i>
+          {% for tag in site.tags %}
+
+            {% if site.status_tags contains tag[0] %}  
+            <span>{{ tag | first | capitalize }}</span>
+            {% endif %}
+            {% if forloop.last == false %}
+            <span>,</span>
+            {% endif %}
+
+          {% endfor %}
+          </small>
+        </div>
+
+        <div class="tags">
+          <small>
           <i class="fa fa-tags"></i>
           {% for tag in site.tags %}
 
             {% if site.status_tags contains tag[0] %}  
-            <a href="{{ site.baseurl }}/posts-by-status-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
             {% else %}
-            <a href="{{ site.baseurl }}/posts-by-specialty-tags/#{{ tag | first | slugify }}-ref">{{ tag | first }}</a>
+            <a href="{{ site.baseurl }}/{{ tag | first | slugify }}-ref">{{ tag | first | capitalize }}</a>
             {% endif %}
             {% if forloop.last == false %}
             <span>,</span>

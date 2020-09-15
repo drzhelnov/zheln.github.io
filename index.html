@@ -69,7 +69,7 @@ make-smaller-titles: false
                   {% endif %}
               </ul>
 
-              <h2>AMA Specialty Tags</h2>
+              <h2>Appraisals by AMA Specialty Tags</h2>
               
               <div class="tags">
                   <small>
@@ -114,7 +114,7 @@ make-smaller-titles: false
     resultsContainer: document.getElementById('results-container'),
     dataSource: '{{ site.baseurl }}/search.json',
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
-    noResultsText: 'No results found',
+    noResultsText: 'No appraisals found',
     limit: 10,
     fuzzy: true,
   })
