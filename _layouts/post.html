@@ -96,8 +96,8 @@ layout: default
           <small>
           <i class="fas fa-tasks"></i>
           {% for tag in page.tags %}
-            {% if site.status_tags contains tag[0] %}
-              <strong>{{ tag | first | capitalize }}</strong>  
+            {% if site.status_tags contains tag %}
+              <strong>{{ tag | capitalize }}</strong>  
             {% endif %}
           {% endfor %}
           </small>
@@ -108,12 +108,12 @@ layout: default
           <i class="fa fa-tags"></i>
           {% for tag in page.tags %}
 
-            {% if site.status_tags contains tag[0] %}  
+            {% if site.status_tags contains tag %}  
             {% else %}
               {% if forloop.first == false %}
                 <span>,</span>
               {% endif %}
-              <a href="{{ site.baseurl }}/{{ tag | first | slugify }}">{{ tag | first | capitalize }}</a>
+              <a href="{{ site.baseurl }}/{{ tag | first | slugify }}">{{ tag | capitalize }}</a>
             {% endif %}
 
           {% endfor %}
