@@ -27,6 +27,7 @@ layout: default
 
       <div class="author">
         <small><i>
+          {% if page.categories != empty %}{% for category in page.categories limit:1 %}{{ category | capitalize }}{% endfor %}{% endif %}
           {% if page.author %}
           by
           <span itemprop="author">
@@ -42,7 +43,6 @@ layout: default
           </span>
           {% endif %}
           on <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
-          {% if page.categories != empty %} under {% for category in page.categories limit:1 %}{{ category | capitalize }}{% endfor %}{% endif %}
         </i></small>
       </div>
 
