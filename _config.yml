@@ -17,7 +17,7 @@ status_tags:
   - awaiting crowdfunding
   - appraisal in progress
   - appraisal complete
-search_placeholder: "Type in a systematic review PMID, DOI, title, etc."
+search_placeholder: "Type a systematic review PMID, DOI, title, etc."
 search_results_container: "Start typing to find an appraisal of a systematic review"
 specialty_page_headline: "By AMA Specialty"
 
