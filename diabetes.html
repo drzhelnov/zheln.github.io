@@ -8,7 +8,7 @@ specialty_tag: diabetes
   <div class="row index all-posts">
     <h1 class="header author-header">{{ site.title }}</h1>
     <h2 class="header" itemprop="headline">AMA Specialty</h2>
-      {% for post in site.posts %}
+      {% for tag in site.tags %}
       {% if tag contains page.specialty_tag %}
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ tag | first | slugify }}-ref">{{ tag | first }}</h2>
