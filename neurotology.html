@@ -1,6 +1,6 @@
 ---
 layout: default
-make-smaller-titles: true
+make-smaller-titles: false
 specialty_tag: neurotology
 ---
 
@@ -12,7 +12,7 @@ specialty_tag: neurotology
 
       <h2 id="{{ tag | first | slugify }}-ref">
         <i class="fa fa-tags"></i>
-        {{ site.NONO | capitalize }}
+        {{ site.NO | capitalize }}
       </h2>
 
       {% assign has_no_posts = true %}
@@ -36,11 +36,11 @@ specialty_tag: neurotology
         <div class="error-text">
           {{ site.specialty_page_no_posts }}
         </div>
+
+        {% include social_links.html %}
+
+        {% include specialty_tags_cloud.html %}
       {% endif %}
-
-      {% include social_links.html %}
-
-      {% include specialty_tags_cloud.html %}
       
     </div>
   </div>
