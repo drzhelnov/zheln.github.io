@@ -20,7 +20,7 @@ status_tags:
 search_placeholder: "Type a systematic review PMID, DOI, title, etc."
 search_results_container: "Start typing to find an appraisal of a systematic review. Only the first 10 records will be displayed."
 specialty_page_headline: "By AMA Specialty"
-specialty_page_no_posts: "Unfortunately, no posts have been tagged yet with this specialty.<br />Please come back later; or consider making a donation as low as $1 to support my processing of thousands of records weekly either on <a href=\"https://patreon.com/zheln\">Patreon</a> or via <a href=\"https://paypal.me/pjelnov\">Paypal</a>.<br />Also, you can browse other specialties using the tag cloud below or look for appraisals directly using the search box.<br />In any case, you are welcome to get in touch with me by [email](mailto:pavel@zheln.com) or using any of my social links below."
+specialty_page_no_posts: "Unfortunately, no posts have been tagged yet with this specialty.<br />Please come back later; or consider making a donation as low as $1 to support my processing of thousands of records weekly either on <a href=\"https://patreon.com/zheln\">Patreon</a> or via <a href=\"https://paypal.me/pjelnov\">Paypal</a>.<br />Also, you can browse other specialties using the tag cloud below or look for appraisals directly using the search box.<br />In any case, you are welcome to get in touch with me by <a href=\"mailto:pavel@zheln.com\">email</a> or using any of my social links below."
 
 # Specialty tags
 
