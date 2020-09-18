@@ -13,7 +13,7 @@ specialty_tag: diabetes
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ tag | first | slugify }}-ref">
           <i class="fa fa-tags"></i>
-          {{ tag | first | capitalize }}
+          {{ site.DIA | capitalize }}
         </h2>
          <ul>
         {% for posts in tag %}

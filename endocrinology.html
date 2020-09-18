@@ -2,7 +2,6 @@
 layout: default
 make-smaller-titles: true
 specialty_tag: endocrinology
-specialty_header: "Endocrinology, diabetes, & metabolism"
 ---
 
 <div class="container-fluid index">
@@ -14,7 +13,7 @@ specialty_header: "Endocrinology, diabetes, & metabolism"
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ tag | first | slugify }}-ref">
           <i class="fa fa-tags"></i>
-          {{ page.specialty_header }}
+          {{ site.END | capitalize }}
         </h2>
          <ul>
         {% for posts in tag %}

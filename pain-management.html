@@ -1,8 +1,7 @@
 ---
 layout: default
 make-smaller-titles: true
-specialty_tag: metabolism
-specialty_header: "Endocrinology, diabetes, & metabolism"
+specialty_tag: pain management
 ---
 
 <div class="container-fluid index">
@@ -14,7 +13,7 @@ specialty_header: "Endocrinology, diabetes, & metabolism"
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ tag | first | slugify }}-ref">
           <i class="fa fa-tags"></i>
-          {{ page.specialty_header }}
+          {{ site.PMM | capitalize }}
         </h2>
          <ul>
         {% for posts in tag %}
