@@ -10,6 +10,7 @@ $linkedin:       #2b77b1;
 $xing:           #006567;
 $google-plus:    #c95644;
 $facebook:       #365899;
+$paypal:         #005ea6;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
@@ -204,6 +205,10 @@ ul {
 
 	.fa-github-alt:hover {
 		color: $github;
+	}
+
+	.fa-cc-paypal:hover {
+		color: $paypal;
 	}
 
 	.fa-stack-overflow:hover {
