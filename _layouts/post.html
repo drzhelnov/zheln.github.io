@@ -97,10 +97,10 @@ layout: default
 
             {% if site.status_tags contains tag %}  
             {% else %}
-              {% if forloop.first == false %}
+              <a href="{{ site.baseurl }}/{{ tag | slugify }}">{{ tag | capitalize }}</a>
+              {% if forloop.last == false %}
                 <span>,</span>
               {% endif %}
-              <a href="{{ site.baseurl }}/{{ tag | slugify }}">{{ tag | capitalize }}</a>
             {% endif %}
 
           {% endfor %}
