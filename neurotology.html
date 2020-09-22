@@ -1,10 +1,11 @@
 ---
 layout: default
-make-smaller-titles: false
+title: Neurotology
+make-smaller-titles: true
 specialty_tag: neurotology
 ---
 
-<div class="container-fluid index error">
+<div class="container-fluid index">
   <div class="row index all-posts">
     <h1 class="header author-header">{{ site.title }}</h1>
     <h2 class="header" itemprop="headline">{{ site.specialty_page_headline }}</h2>
@@ -12,7 +13,7 @@ specialty_tag: neurotology
 
       <h2 id="{{ tag | first | slugify }}-ref">
         <i class="fa fa-tags"></i>
-        {{ site.NO | capitalize }}
+        {{ site.NONO | capitalize }}
       </h2>
 
       {% assign has_no_posts = true %}
@@ -36,11 +37,11 @@ specialty_tag: neurotology
         <div class="error-text">
           {{ site.specialty_page_no_posts }}
         </div>
-
-        {% include social_links.html %}
-
-        {% include specialty_tags_cloud.html %}
       {% endif %}
+
+      {% include social_links.html %}
+
+      {% include specialty_tags_cloud.html %}
       
     </div>
   </div>
