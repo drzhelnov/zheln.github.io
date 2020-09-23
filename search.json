@@ -4,7 +4,7 @@ layout: none
 [
   {% for post in site.posts %}
     {
-      {% if page.categories contains "record" %}
+      {% if post.categories contains "record" %}
       "title"    : "{{ post.title | escape }}",
       "categories" : "{{ post.categories | join: ', ' }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
