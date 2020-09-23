@@ -13,10 +13,6 @@ layout: none
         "content"    : "{{ post.content | strip_html | strip_newlines }}"
         {% endif %}
       }
-      {% unless forloop.last %}
-        {% if post.categories contains "record" %}
-          ,
-        {% endif %}
-      {% endunless %}
+      {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
