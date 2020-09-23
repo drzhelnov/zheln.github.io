@@ -1,4 +1,4 @@
-# Zheln ![Woodpecker by Anton from The Noun Project](favicons/favicon-32x32.png)
+# Zheln [![Woodpecker by Anton from The Noun Project](https://raw.githubusercontent.com/drzhelnov/zheln.github.io/gh-pages/favicons/favicon-32x32.png)](https://zheln.com)
 
 [![Build Status](https://travis-ci.com/drzhelnov/zheln.github.io.svg?branch=gh-pages)](https://travis-ci.com/drzhelnov/zheln.github.io)
 
