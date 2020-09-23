@@ -1,10 +1,8 @@
-# Zheln
+# Zheln ![Woodpecker by Anton from The Noun Project](favicons/favicon-32x32.png)
 
 [![Build Status](https://travis-ci.com/drzhelnov/zheln.github.io.svg?branch=gh-pages)](https://travis-ci.com/drzhelnov/zheln.github.io)
 
-![Woodpecker by Anton from The Noun Project](favicons/android-chrome-512x512.png)
-
-Hi, this is Pavel Zhelnov. I founded [Zheln.com](https://zheln.com), a crowdfunding project, where I check [PubMed](https://pubmed.gov) for updates in the [Systematic Review Subset](https://p1m.org/ssb) and critically assess the most appealing reviews. I named the project after the _zhelna_, the [black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker), who do the same thing I do: Hit to the core. This is independent research and my primary job, so please consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln) or via [PayPal](https://paypal.me/pjelnov).
+Hi, this is Pavel Zhelnov. I founded [Zheln.com](https://zheln.com), a crowdfunding project, where I check [PubMed](https://pubmed.gov) for updates in the [Systematic Review Subset](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md) and critically assess the most appealing reviews. I named the project after the _zhelna_, the [black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker), who do the same thing I do: Hit to the core. This is independent research and my primary job, so please consider making a minimal donation as low as $1 either on [Patreon](https://patreon.com/zheln) or via [PayPal](https://paypal.me/pjelnov).
 
 Previously, I ran academic research as a medical school postgraduate while also working as a physician and a medical reviewer but quit to get rid of unfair agendas and fully devote myself to systematic reviews. You can learn more about my research background from my academic profiles at [GitHub](https://github.com/drzhelnov), [OSF](https://osf.io/9c83x/), [ORCID](https://orcid.org/0000-0003-2767-5123), [LinkedIn](https://www.linkedin.com/in/pavel-zhelnov-382073182), [Google Scholar](https://scholar.google.com/citations?user=b421BNkAAAAJ), & [ResearchGate](https://researchgate.net/profile/Pavel_Zhelnov). Also, feel free to get in touch either by [email](mailto:pavel@zheln.com) or on [Telegram](https://t.me/drzhelnov).
 
