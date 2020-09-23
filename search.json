@@ -4,25 +4,14 @@ layout: none
 [
   {% for post in site.posts %}
     {
+      {% if page.categories contains "record" %}
       "title"    : "{{ post.title | escape }}",
       "categories" : "{{ post.categories | join: ', ' }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
       "content"  : "{{ post.content | strip_html | strip_newlines }}"
+      {% endif %}
     } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
-  {% for page in site.pages %}
-   {
-     {% if page.title != nil %}
-        "title"    : "{{ page.title | escape }}",
-        "categories" : "{{ page.categories | escape }}",
-        "tags"     : "{{ page.tags | join: ', ' }}",
-        "url"      : "{{ site.baseurl }}{{ page.url }}",
-        "date"     : "{{ page.date }}",
-        "content"  : "{{ page.content | strip_html | strip_newlines }}"
-     {% endif %}
-   } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
