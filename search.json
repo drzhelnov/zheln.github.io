@@ -3,16 +3,20 @@ layout: none
 ---
 [
   {% for post in site.posts %}
-    {% if post.categories contains "record" %}
       {
-        "title"    : "{{ post.title | escape }}",
+        {% if post.categories contains "record" %}
+        "title"      : "{{ post.title | escape }}",
         "categories" : "{{ post.categories | join: ', ' }}",
-        "tags"     : "{{ post.tags | join: ', ' }}",
-        "url"      : "{{ site.baseurl }}{{ post.url }}",
-        "date"     : "{{ post.date }}",
-        "content"  : "{{ post.content | strip_html | strip_newlines }}" 
+        "tags"       : "{{ post.tags | join: ', ' }}",
+        "url"        : "{{ site.baseurl }}{{ post.url }}",
+        "date"       : "{{ post.date }}",
+        "content"    : "{{ post.content | strip_html | strip_newlines }}"
+        {% endif %}
       }
-    {% endif %}
-    {% unless forloop.last %},{% endunless %}
+      {% unless forloop.last %}
+        {% if post.categories contains "record" %}
+          ,
+        {% endif %}
+      {% endunless %}
   {% endfor %}
 ]
