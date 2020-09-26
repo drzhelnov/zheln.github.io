@@ -5,12 +5,14 @@ layout: none
   {% for post in site.posts %}
       {
         {% if post.categories contains "record" %}
+        {% unless post.content contains "> 2. ❌ Does Not Meet [Shojania & Bero 2001](https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy) True Positive Criteria for Systematic Reviews by Neither Title nor Abstract" %}
         "title"      : "{{ post.title | escape }}",
         "categories" : "{{ post.categories | join: ', ' }}",
         "tags"       : "{{ post.tags | join: ', ' }}",
         "url"        : "{{ site.baseurl }}{{ post.url }}",
         "date"       : "{{ post.date }}",
         "content"    : "{{ post.content | strip_html | strip_newlines }}"
+        {% endunless %}
         {% endif %}
       }
       {% unless forloop.last %},{% endunless %}
