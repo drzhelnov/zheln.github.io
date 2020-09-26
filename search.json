@@ -5,7 +5,7 @@ layout: none
   {% for post in site.posts %}
       {
         {% if post.categories contains "record" %}
-        {% unless post.content | strip_html contains "❌ Does Not Meet Shojania &amp; Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract" %}
+        {% unless post.content | strip_html | where_exp: "content", "content contains '❌ Does Not Meet Shojania &amp; Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract'" %}
         "title"      : "{{ post.title | escape }}",
         "categories" : "{{ post.categories | join: ', ' }}",
         "tags"       : "{{ post.tags | join: ', ' }}",
