@@ -15,14 +15,14 @@ layout: default
     <div itemscope itemtype="http://schema.org/Article" class="col-md-12 article">
       {% if site.data.thumbnail[page.thumbnail] %}
       <div class="thumb">
-        <img itemprop="image" src="{{ site.data.thumbnail[page.thumbnail] }}" alt="Thumbnail: {{ page.thumbnail }}" />
+        <a href="{{ site.url }}"><img itemprop="image" src="{{ site.data.thumbnail[page.thumbnail] }}" alt="Thumbnail: {{ page.thumbnail }}" /></a>
       </div>
       {% elsif page.thumbnail %}
       <div class="thumb">
         {% if page.thumbnail contains " fa-" %}
-        <i class="{{ page.thumbnail }} fa-4x"></i>
+        <a href="{{ site.url }}"><i class="{{ page.thumbnail }} fa-4x"></i></a>
         {% else %}
-        <i class="fa fa-{{ page.thumbnail }} fa-4x"></i>
+        <a href="{{ site.url }}"><i class="fa fa-{{ page.thumbnail }} fa-4x"></i></a>
         {% endif %}
       </div>
       {% endif %}
