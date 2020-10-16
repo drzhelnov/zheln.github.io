@@ -19,7 +19,11 @@ layout: default
       </div>
       {% elsif page.thumbnail %}
       <div class="thumb">
+        {% if page.thumbnail contains " fa-" %}
+        <i class="{{ page.thumbnail }}"></i>
+        {% else %}
         <i class="fa fa-{{ page.thumbnail }} fa-4x"></i>
+        {% endif %}
       </div>
       {% endif %}
 
