@@ -559,9 +559,9 @@ ul {
 			margin-bottom: 0px;
 			text-align: center;
 			
-			a {
+			a, a:active, a:hover {
 			    color: $white;
-			}
+		    }
 
 			img {
 				height: 50px;
