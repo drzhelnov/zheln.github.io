@@ -265,6 +265,10 @@ ul {
 		font-size: 32px;
 		width: 100%;
 
+		a, a:active, a:hover {
+			color: $white;
+		}
+
 		@media (min-width: $screen-lg-min) {
 			margin-left: -10%;
 			width: 120%;
