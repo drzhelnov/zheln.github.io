@@ -265,8 +265,12 @@ ul {
 		font-size: 32px;
 		width: 100%;
 
-		a, a:active, a:hover {
+		a, a:active {
 			color: $white;
+		}
+
+		a:hover {
+			color: $light-medium;
 		}
 
 		@media (min-width: $screen-lg-min) {
