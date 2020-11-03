@@ -23,7 +23,7 @@ count: 738
       {% for i in (1..page.count) %}
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
-        {% assign post = site.categories.record | find_exp:"item", "item.name == name" %}
+        {% assign post = site.categories.record | find_exp:"item", "item.name == '2020-09-02-1.md'" %}
         {{ post.title }}
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
