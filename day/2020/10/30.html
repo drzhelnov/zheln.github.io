@@ -24,11 +24,11 @@ count: 738
         {% if post.title == "Record Awaiting Appraisal" %}
           {% assign number = post.url | split: "/" | last %}
           {% if number.size == 1 %}
-            {% post.number = number | prepend: "000" %}
+            {% assign post.number = number | prepend: "000" %}
           {% elsif number.size == 2 %}
-            {% post.number = number | prepend: "00" %}
+            {% assign post.number = number | prepend: "00" %}
           {% elsif number.size == 3 %}
-            {% post.number = number | prepend: "0" %}
+            {% assign post.number = number | prepend: "0" %}
           {% endif %}
           {% assign post.title = number | prepend: "Record #" %}
         {% endif %}
