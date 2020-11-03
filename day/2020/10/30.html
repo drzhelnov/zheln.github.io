@@ -25,7 +25,7 @@ count: 738
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
-          {% assign title = post.tile %}
+          {% assign title = post.title %}
           {% if title == "Record Awaiting Appraisal" %}
             {% assign title = post.url | split: "/" | last | prepend: "Record #" %}
           {% endif %}
