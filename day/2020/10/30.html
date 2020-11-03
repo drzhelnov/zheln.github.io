@@ -23,9 +23,8 @@ count: 738
       {% for i in (1..page.count) %}
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
-        {% assign record = site.categories.record | where: "name", name %}
-        {{ record | inspect }}
-        {% assign post = record[0] %}
+        {% assign post = site.categories.record | where: "name", name | first %}
+        {{ post | inspect }}
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
