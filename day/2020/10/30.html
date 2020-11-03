@@ -18,12 +18,12 @@ count: 738
       </h2>
 
       {% assign target_date = page.date | date_to_string %}
-      {% for post in site.categories.record %}
+      {% for post in site.categories.record | sort: "name" %}
       <ul>
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.category | capitalize }} #{{ post.name | split: "-" | last }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">Record #{{ post.url | split: "/" | last }}</a>
           {% for tag in post.tags %}
             {% if site.status_tags contains tag %}
               <small class="hidden-xs">{{ tag | capitalize }}</small>
