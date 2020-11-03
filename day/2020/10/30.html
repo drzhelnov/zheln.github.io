@@ -19,6 +19,10 @@ count: 738
       </h2>
 
       {% assign target_date = page.date | date_to_string %}
+      {% for record in site.categories['record']
+        {{ record | inspect }}
+        {% break %}
+      {% endfor %}
       <ul>
       {% for i in (1..page.count) %}
         {% assign name = i | prepend: "-" | append: ".md" %}
