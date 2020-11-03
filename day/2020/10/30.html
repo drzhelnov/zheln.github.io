@@ -2,18 +2,19 @@
 layout: default
 make-smaller-titles: false
 date: 2020-10-30
+count: 738
 ---
 
 <div class="container-fluid index error">
   <div class="row index all-posts">
-    <h1 class="header author-header"><a href="{{ site.url }}">{{ site.day_page_header }}</a></h1>
-    <h2 class="header" itemprop="headline"><a href="{{ site.ssb_link }}"></a>{{ site.day_page_headline }}</h2>
+    <h1 class="header author-header"><a href="{{ site.url }}">{{ site.day_page_header }} (n = {{ page.count }})</a></h1>
+    <h2 class="header" itemprop="headline"><a href="{{ site.ssb_link }}">{{ site.day_page_headline }}</a></h2>
     <div class="col-md-12 content-panel articles">
 
       <h2>
-        <a href="/day/2020/10/29/">« Previous</a>
+        <small class="hidden-xs"><a href="/day/2020/10/29/">« Previous</a></small>
         <a href="/month/2020/10/"><i class="fas fa-calendar-alt"></i> {{ page.date | date: "%a, %b %-d (Wk %U, %Y)" }}</a>
-        <a href="/day/2020/10/31/">Next »</a>
+        <small class="hidden-xs"><a href="/day/2020/10/31/">Next »</a></small>
       </h2>
 
       {% assign target_date = page.date | date_to_string %}
@@ -22,7 +23,7 @@ date: 2020-10-30
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.category | capitalize }} #{{ post.name | split: "-" | last }}</a>
           {% for tag in post.tags %}
             {% if site.status_tags contains tag %}
               <small class="hidden-xs">{{ tag | capitalize }}</small>

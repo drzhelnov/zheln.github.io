@@ -258,13 +258,15 @@ ul {
 		max-width:700px;
 	}
 
-	h2 {
-		a, a:active {
-			color: $light-blue;
-		}
-
-		a:hover {
-			color: $dark-blue;
+	div {
+		h2 {
+			a, a:active {
+				color: $light-blue;
+			}
+	
+			a:hover {
+				color: $dark-blue;
+			}
 		}
 	}
 
