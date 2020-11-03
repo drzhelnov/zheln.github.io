@@ -19,11 +19,11 @@ count: 738
       </h2>
 
       {% assign target_date = page.date | date_to_string %}
-      {% for i in (1..page.count) %}
       <ul>
+      {% for i in (1..page.count) %}
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
-        {% assign post = site.categories.record | find: "name", name %}
+        {% assign post = site.categories.record | where: "name", name %}
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
@@ -39,8 +39,8 @@ count: 738
           {% endfor %}
         </li>
         {% endif %}
+      {% endfor %}
       </ul>
-      {% endfor %}å
       
     </div>
   </div>
