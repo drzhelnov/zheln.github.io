@@ -18,7 +18,7 @@ count: 738
       </h2>
 
       {% assign target_date = page.date | date_to_string %}
-      {% for post in site.categories.record | sort: "name" %}
+      {% for post in site.categories.record | sort_natural: "title" %}
       <ul>
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
