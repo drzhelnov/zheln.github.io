@@ -24,7 +24,7 @@ count: 738
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
         {% assign post = site.categories.record | find_exp:"item", "item.name == name" %}
-        {{ post }}
+        {{ post.title }}
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
