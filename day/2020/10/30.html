@@ -3,14 +3,47 @@ layout: default
 make-smaller-titles: false
 title: "Oct 30, 2020"
 date: 2020-10-30
-count: 738
+total: 738
+primary-appraisal: 15
+percent-total: 2.0
+fail: 3
+pass: 12
+pass-rate: 80.0
+number-needed-appraise: 15
 ---
 
 <div class="container-fluid index error">
   <div class="row index all-posts">
-    <h1 class="header author-header"><a href="{{ site.url }}">{{ site.day_page_header }} (n = {{ page.count }})</a></h1>
+    <h1 class="header author-header"><a href="{{ site.url }}">{{ site.day_page_header }}</a></h1>
     <h2 class="header" itemprop="headline"><a href="{{ site.ssb_link }}">{{ site.day_page_headline }}</a></h2>
     <div class="col-md-12 content-panel articles">
+
+      <div>
+        <table>
+          <thead>
+              <tr>
+                  <td>Total</td>
+                  <td>Primary Appraisal</td>
+                  <td>% of Total</td>
+                  <td>❌ Fail</td>
+                  <td>✅ Pass</td>
+                  <td>Pass Rate</td>
+                  <td>Number Needed to Appraise</td>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td>{{ page.total }}</td>
+                  <td>{{ page.primary-appraisal }}</td>
+                  <td>{{ page.percent-total }}</td>
+                  <td>{{ page.fail }}</td>
+                  <td>{{ page.pass }}</td>
+                  <td>{{ page.pass-rate }}</td>
+                  <td>{{ page.number-needed-appraise }}</td>
+              </tr>
+          </tbody>
+        </table>
+      </div>
 
       <h2>
         <small class="hidden-xs"><a href="/day/2020/10/29/">« Day Before</a> |</small>
@@ -19,7 +52,7 @@ count: 738
       </h2>
 
       <ul>
-      {% for i in (1..page.count) %}
+      {% for i in (1..page.total) %}
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
         {% assign post = site.categories['record'] | where_exp: "item", "item.path contains name" | first %}
