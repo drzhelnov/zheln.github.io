@@ -14,7 +14,7 @@ count: 738
 
       <h2>
         <small class="hidden-xs"><a href="/day/2020/10/29/">« Day Before</a> |</small>
-        <a href="/month/2020/10/"><i class="fas fa-calendar-alt"></i> {{ page.date | date: "%a, %b %-d (Wk %U, %Y)" }}</a>
+        <a href="/month/2020/10/"><i class="fas fa-calendar-alt"></i> {% assign week_prepend = page.date | date: "%a, %b %-d (Wk " %}{% assign week_append = page.date | date: ", %Y)" %}{% assign week = page.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a>
         <small class="hidden-xs">| <a href="/day/2020/10/31/">Next Day »</a></small>
       </h2>
 
