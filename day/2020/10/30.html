@@ -19,13 +19,27 @@ count: 738
       </h2>
 
       {% assign target_date = page.date | date_to_string %}
-      {% assign records = site.categories.record | sort_natural: "name" %}
+      {% assign records = site.categories.record %}
+      {% for post in records %}
+        {% if post.title == "Record Awaiting Appraisal" %}
+          {% assign number = post.url | split: "/" | last %}
+          {% if number.size == 1 %}
+            {% post.number = number | prepend: "000" %}
+          {% elsif number.size == 2 %}
+            {% post.number = number | prepend: "00" %}
+          {% elsif number.size == 3 %}
+            {% post.number = number | prepend: "0" %}
+          {% endif %}
+          {% assign post.title = number | prepend: "Record #" %}
+        {% endif %}
+      {% endfor %}
+      {% assign records = records | sort: "number" %}
       {% for post in records %}
       <ul>
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">Record #{{ post.url | split: "/" | last }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           {% for tag in post.tags %}
             {% if site.status_tags contains tag %}
               <small class="hidden-xs">{{ tag | capitalize }}</small>
