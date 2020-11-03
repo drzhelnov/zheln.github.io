@@ -23,9 +23,9 @@ count: 738
       {% for i in (1..page.count) %}
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
-        {% assign records = site.categories.record %}
-        {{ records[1] | inspect }}
-        {% assign post = records | find_exp: "item", "item.name == '2020-09-02-1.md'" %}
+        {% assign record = site.categories.record | where: "name", name %}
+        {{ record | inspect }}
+        {% assign post = record[0] %}
         {% assign source_date = post.date | date_to_string %}
         {% if source_date == target_date %}
         <li>
