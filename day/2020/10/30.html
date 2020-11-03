@@ -18,20 +18,11 @@ count: 738
         <small class="hidden-xs">| <a href="/day/2020/10/31/">Next Day »</a></small>
       </h2>
 
-      {% assign target_date = page.date | date_to_string %}
-      {% for record in site.categories['record']
-        {{ record | inspect }}
-        {% break %}
-      {% endfor %}
       <ul>
       {% for i in (1..page.count) %}
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
-        {% assign post = site.categories['record'] | first %}
-        {{ post | inspect }}
-        {% break %}
-        {% assign source_date = post.date | date_to_string %}
-        {% if source_date == target_date %}
+        {% assign post = site.categories['record'] | where_exp: "item", "item.path contains name" | first %}
         <li>
           {% assign title = post.title %}
           {% if title == "Record Awaiting Appraisal" %}
@@ -44,7 +35,6 @@ count: 738
             {% endif %}
           {% endfor %}
         </li>
-        {% endif %}
       {% endfor %}
       </ul>
       
