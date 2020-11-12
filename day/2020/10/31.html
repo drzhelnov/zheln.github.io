@@ -3,6 +3,8 @@ layout: default
 make-smaller-titles: false
 title: "Oct 31, 2020"
 date: 2020-10-31
+before: 2020-10-30
+next: 2020-11-01
 total: 521
 primary-appraisal: 53
 percent-total: 10.1
@@ -40,9 +42,9 @@ pass: 46
       </div>
 
       <h2>
-        <small class="hidden-xs"><a href="/day/2020/10/30/">« Day Before</a> |</small>
-        <a href="/month/2020/10/"><i class="fas fa-calendar-alt"></i> {% assign week_prepend = page.date | date: "%a, %b %-d (Wk " %}{% assign week_append = page.date | date: ", %Y)" %}{% assign week = page.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a>
-        <small class="hidden-xs">| <a href="/day/2020/11/01/">Next Day »</a></small>
+        <small class="hidden-xs"><a href="/day/{{ page.before | replace: '-', '/' }}/">{{ site.day_page_before_label }}</a> |</small>
+        <a href="/month/2020/{{ page.before | replace: '-', '/' | slice: 0, 7 }}"><i class="fas fa-calendar-alt"></i> {% assign week_prepend = page.date | date: "%a, %b %-d (Wk " %}{% assign week_append = page.date | date: ", %Y)" %}{% assign week = page.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a>
+        <small class="hidden-xs">| <a href="/day/{{ page.next | replace: '-', '/' }}/">{{ site.day_page_next_label }}</a></small>
       </h2>
 
       <ul>

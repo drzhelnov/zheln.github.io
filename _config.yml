@@ -24,6 +24,8 @@ specialty_page_no_posts: "<ul><li>Unfortunately, no posts have been tagged with 
 ssb_link: "https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#pubmed-search"
 day_page_headline: "From Replicated PubMed Systematic Subset"
 day_page_header: "Zheln Records"
+day_page_before_label: "« Day Before"
+day_page_next_label: "Next Day »"
 appraisal_log:
   total: "Total"
   primary-appraisal: "Primary Appraisal"
