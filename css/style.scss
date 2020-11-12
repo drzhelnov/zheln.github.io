@@ -23,6 +23,8 @@ $paypal:         #005ea6;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
+$tiktok:         #7d88e3;
+$youtube:        #c00;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
 $patreon:        #f96854;
@@ -226,6 +228,14 @@ ul {
 	
 	.fa-instagram:hover {
 		color: $instagram;
+	}
+
+	.fa-tiktok:hover {
+		color: $tiktok;
+	}
+
+	.fa-youtube:hover {
+		color: $youtube;
 	}
 	
 	.fa-reddit-alien:hover {
