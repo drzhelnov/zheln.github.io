@@ -2,7 +2,7 @@
 layout: default
 make-smaller-titles: false
 title: "Nov 10, 2020"
-permalink: /day/2020/11/10/
+permalink: /2020/11/10/
 date: 2020-11-10
 before: 2020-11-09
 next: 2020-11-11
@@ -43,9 +43,9 @@ pass: 34
       </div>
 
       <h2>
-        <small class="hidden-xs"><a href="/day/{{ page.before | replace: '-', '/' }}/">{{ site.day_page_before_label }}</a> |</small>
-        <a href="/month/2020/{{ page.before | replace: '-', '/' | slice: 0, 7 }}"><i class="fas fa-calendar-alt"></i> {% assign week_prepend = page.date | date: "%a, %b %-d (Wk " %}{% assign week_append = page.date | date: ", %Y)" %}{% assign week = page.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a>
-        <small class="hidden-xs">| <a href="/day/{{ page.next | replace: '-', '/' }}/">{{ site.day_page_next_label }}</a></small>
+        <small class="hidden-xs"><a href="/{{ page.before | replace: '-', '/' }}/">{{ site.day_page_before_label }}</a> |</small>
+        <a href="/2020/{{ page.before | replace: '-', '/' | slice: 0, 7 }}"><i class="fas fa-calendar-alt"></i> {% assign week_prepend = page.date | date: "%a, %b %-d (Wk " %}{% assign week_append = page.date | date: ", %Y)" %}{% assign week = page.date | date: "%-U" | plus: 1 %}{{ week | prepend: week_prepend | append: week_append }}</a>
+        <small class="hidden-xs">| <a href="/{{ page.next | replace: '-', '/' }}/">{{ site.day_page_next_label }}</a></small>
       </h2>
 
       <ul>
