@@ -2,23 +2,21 @@ name: Jekyll
 
 on:
   workflow_dispatch
-
+    
 jobs:
   jekyll:
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-
-    # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - uses: actions/cache@v1
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
-          ${{ runner.os }}-gems-
-
+          ${{ runner.os }}-gems-\
     - uses: helaili/jekyll-action@2.0.4
+      with: 
+        jekyll_src: ./
+        gem_src: ./
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-      with:
-        jekyll_src: '/srv/jekyll/'
