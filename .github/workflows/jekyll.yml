@@ -5,7 +5,7 @@ on:
 
 jobs:
   jekyll:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-16.04
     steps:
     - uses: actions/checkout@v2
 
@@ -17,11 +17,6 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
 
-    # Specify the Jekyll source location as a parameter
-    # Specify the target branch (optional)
     - uses: helaili/jekyll-action@2.0.4
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-      with:
-        jekyll_src: '/'
-        target_branch: 'gh-pages'
