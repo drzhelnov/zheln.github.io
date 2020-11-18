@@ -1,0 +1,21 @@
+---
+layout: none
+---
+[
+  {% for post in site.posts %}
+      {
+        {% if post.categories contains "record" %}
+        {% assign content = post.content | strip_html | strip_newlines %}
+        {% unless content contains "❌ Does Not Meet Shojania &amp; Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract" %}
+        "title"      : "{{ post.title | escape }}",
+        "categories" : "{{ post.categories | join: ', ' }}",
+        "tags"       : "{{ post.tags | join: ', ' }}",
+        "url"        : "{{ site.baseurl }}{{ post.url }}",
+        "date"       : "{{ post.date }}",
+        "content"    : "{{ content }}"
+        {% endunless %}
+        {% endif %}
+      }
+      {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

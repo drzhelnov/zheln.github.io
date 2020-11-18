@@ -1,0 +1,23 @@
+---
+layout: default
+title: Appraisal Search
+---
+
+<div class="container-fluid index">
+  <div class="row index all-posts">
+
+    <h1 class="header author-header"><a href="{{ site.url }}">Zheln Appraisal Search</a></h1>
+
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="{{ site.search_placeholder }}">
+      <div class="col-md-12 content-panel articles">
+        <ul id="results-container"><small>{{ site.search_results_container }}</small></ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<hr class="search-hr" />
+
+{% include search_script.html %}

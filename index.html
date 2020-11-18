@@ -1,0 +1,86 @@
+---
+layout: default
+make-smaller-titles: false
+---
+
+
+<div class="container-fluid index">
+    <div class="row">
+
+        <div class="col-md-12 main content-panel">
+
+            <div class="gravatar">
+                <img src="{{ site.title_image | prepend: site.baseurl }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
+            </div>
+
+            <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
+
+            <div class="author-text">
+                {{ site.title_description }}
+            </div>
+
+            {% include social_links.html %}
+          </div>
+          <div class="col-md-12 main content-panel">
+
+            <div class="articles">
+
+              <h2>Latest Appraisal Summaries</h2>
+
+              <ul>                 
+                  {% for post in paginator.posts %}
+                
+                      <li>
+                          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+                      </li>
+
+                  {% endfor %}
+
+                  {% if paginator.total_pages > 1 %}
+                  <li>
+                        <small>
+                        {% if paginator.previous_page %}
+                        <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
+                        {% else %}
+                            <span>&laquo; Newer</span>
+                        {% endif %}
+                        </small>
+
+                        {% for page in (1..paginator.total_pages) %}
+                            {% if page == paginator.page %}
+                            <strong>{{ page }}</strong>
+                            {% elsif page == 1 %}
+                            <a href="{{ '/' | relative_url }}">{{ page }}</a>
+                            {% else %}
+                            <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+                            {% endif %}
+                        {% endfor %}
+
+                        <small>
+                        {% if paginator.next_page %}
+                            <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+                        {% else %}
+                            <span>Older &raquo;</span>
+                        {% endif %}
+                        </small>
+                  
+                  </li>
+                  {% endif %}
+              </ul>
+
+              <h2>Appraisals by AMA Specialty Tags</h2>
+
+              {% include specialty_tags_cloud.html %}
+
+            </div>
+
+        </div>
+    
+    </div>
+    
+
+    {% include search_bar.html %}
+
+
+</div>

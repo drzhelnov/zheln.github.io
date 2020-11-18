@@ -1,0 +1,52 @@
+---
+layout: default
+title: 404
+permalink: /404.html
+---
+
+<div class="container-fluid index error">
+  <div class="row">
+
+    <div class="col-md-12 content-panel articles">
+      <h1 class="header author-header">404</h1>
+
+      <div class="error-text">
+        <p>Sorry, but this link doesn’t seem to exist.</p>
+        <p>Odds are it has been either mistyped or moved.</p>
+        <p>Also, it is possible it hasn’t been created yet.</p>
+        <p><strong>Please let me know what you’ve been looking for (by <a href="mailto:pavel@zheln.com">email</a> or via any social media below), and I’ll do my best to help you find it.</strong></p>
+      </div>
+
+      <div class="error-text">
+        <a href="{{ site.baseurl }}/">Latest Appraisal Summaries</a> |
+        <a href="{{ site.baseurl }}/search/">Appraisal Search</a>
+      </div>
+
+      {% include social_links.html %}
+
+    </div>
+
+  </div>
+
+  <div class="content-panel related">
+    {% for post in site.posts limit:1 %}
+      <div class="related-header">
+        <a href="{{ site.baseurl }}{{ post.url }}">Suggested Article</a>
+      </div>
+      <div class="title">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </div>
+      <div class="excerpt">
+         {% if post.summary %}
+          {{ post.summary | strip_html | truncatewords:30 }}
+         {% else %}
+          {{ post.excerpt | strip_html | truncatewords:30 }}
+         {% endif %}
+        <a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
+      </div>
+    {% endfor %}
+  </div>
+
+  {% include search_bar.html %}
+
+</div>
