@@ -1,11 +1,6 @@
 name: Jekyll site CI
 
-on:
-  workflow_dispatch
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ gh-pages ]
+on: workflow_dispatch
 
 jobs:
   build:
