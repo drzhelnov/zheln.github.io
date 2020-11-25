@@ -59,9 +59,12 @@ pass: 32
         {% else %}
         <li style="background-color: #2D2D29">
         {% endif %}
-          {% assign a = post.content | strip_html | strip_newlines | split: 'A critical appraisal of ‘' %}
-          {% assign b = a[1] | split: '’. Zheln.' %}
-          {% assign title = b[0] %}
+          {% assign title = post.title %}
+          {% if title == "Record Awaiting Appraisal" %}
+            {% assign a = post.content | strip_html | strip_newlines | split: 'A critical appraisal of ‘' %}
+            {% assign b = a[1] | split: '’. Zheln.' %}
+            {% assign title = b[0] %}
+          {% endif %}
           <a href="{{ post.url | prepend: site.baseurl }}">{{ title }}</a>
           {% for tag in post.tags %}
             {% if site.status_tags contains tag %}
