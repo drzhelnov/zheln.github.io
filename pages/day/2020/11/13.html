@@ -63,7 +63,16 @@ pass: 47
           {% if title == "Record Awaiting Appraisal" %}
             {% assign a = post.content | strip_html | strip_newlines | split: 'A critical appraisal of ‘' %}
             {% assign b = a[1] | split: '’. Zheln.' %}
-            {% assign title = b[0] %}
+            {% assign c = b[0] | split: '.' %}
+            {% assign title = '' %}
+            {% for d in c %}
+              {% if forloop.index0 > 0 %}
+                {% assign title = title | append: d %}
+                {% if forloop.rindex0 > 0 %}
+                  {% assign title = title | append: '.' %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
           {% endif %}
           <a href="{{ post.url | prepend: site.baseurl }}">{{ title }}</a>
           {% for tag in post.tags %}
