@@ -54,9 +54,9 @@ pass: 57
         {% assign name = name | prepend: page.date %}
         {% assign post = site.categories['record'] | where_exp: "item", "item.path contains name" | first %}
         <li>
-          {% assign a = post.content | split: 'A critical appraisal of _‘' %}
-          {% assign b = a[1] | split: '’._ Zheln.' %}
-          {% assign title = b[0] | markdownify %}
+          {% assign a = post.content | strip_html | strip_newlines | split: 'A critical appraisal of ‘' %}
+          {% assign b = a[1] | split: '’. Zheln.' %}
+          {% assign title = b[0] %}
           <a href="{{ post.url | prepend: site.baseurl }}">{{ title }}</a>
           {% for tag in post.tags %}
             {% if site.status_tags contains tag %}
