@@ -68,13 +68,8 @@ pass: 21
             {% for d in c %}
               {% if forloop.index0 > 0 %}
                 {% assign title = title | append: d %}
-                {% if forloop.index0 == 1 %}
-                  {% assign title = title | prepend: '<strong>' %}
-                  {% assign title = title | append: '</strong>' %}
-                {% else %}
-                  {% if forloop.rindex0 > 0 %}
+                {% if forloop.rindex0 > 0 %}
                     {% assign title = title | append: '.' %}
-                  {% endif %}
                 {% endif %}
               {% endif %}
             {% endfor %}
