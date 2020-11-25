@@ -13,16 +13,6 @@
 
 .video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-.green-container {
-	color: #0B5202;
-	background-color: #BAEFC2;
-}
-
-.red-container {
-	color: #8E0009;
-	background-color: #FEBAC4;
-}
-
 /* Colours */
 $twitter:        #6dabda;
 $linkedin:       #2b77b1;
@@ -54,6 +44,14 @@ $medium-purple:  #480048;
 $regular-purple: #601848;
 $red:            #C04848;
 $orange:         #F07241;
+
+$new-light-green:#BCEEC4;
+$new-green:      #289d3a;
+$new-dark-green: #0C5100;
+$new-light-red:  #FCB9C4;
+$new-red:        #c70928;
+$new-dark-red:   #870009;
+$new-dark-gray:  #2D2D29;
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -388,7 +386,34 @@ ul {
 					padding-top: 0px;
 					color: $light-medium;
 				}
+			}
 
+			li.green-container {
+				background-color: $new-light-green;
+			  
+				a, a:active {
+					color: $new-green;
+				}
+
+				a:hover, small {
+					color: $new-dark-green;
+				}
+			}
+			  
+			li.red-container {
+				background-color: $new-light-red;
+			  
+				a, a:active {
+					color: $new-red;
+				}
+			  
+				a:hover, small {
+				  	color: $new-dark-red;
+				}
+			}
+			  
+			li.dark-container {
+				background-color: $new-dark-gray;
 			}
 
 			li:nth-last-of-type(1) {
