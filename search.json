@@ -6,7 +6,7 @@ layout: none
       {
         {% if post.categories contains "record" %}
         {% assign content = post.content | strip_html | strip_newlines %}
-        {% unless content contains "❌ Does Not Meet Shojania &amp; Bero 2001 True Positive Criteria for Systematic Reviews by Neither Title nor Abstract" %}
+        {% unless content contains site.step_2_fail %}
         "title"      : "{{ post.title | escape }}",
         "categories" : "{{ post.categories | join: ', ' }}",
         "tags"       : "{{ post.tags | join: ', ' }}",

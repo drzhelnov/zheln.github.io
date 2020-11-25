@@ -13,6 +13,16 @@
 
 .video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
+.green-container {
+	color: #0B5202;
+	background-color: #BAEFC2;
+}
+
+.red-container {
+	color: #8E0009;
+	background-color: #FEBAC4;
+}
+
 /* Colours */
 $twitter:        #6dabda;
 $linkedin:       #2b77b1;
