@@ -53,7 +53,12 @@ pass: 57
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
         {% assign post = site.categories['record'] | where_exp: "item", "item.path contains name" | first %}
+        {% assign cond = i | modulo: 2 %}
+        {% if cond == 0 %}
         <li>
+        {% else %}
+        <li style="background-color: #2D2D29">
+        {% endif %}
           {% assign a = post.content | strip_html | strip_newlines | split: 'A critical appraisal of ‘' %}
           {% assign b = a[1] | split: '’. Zheln.' %}
           {% assign title = b[0] %}

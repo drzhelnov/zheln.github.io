@@ -53,11 +53,15 @@ pass: 34
         {% assign name = i | prepend: "-" | append: ".md" %}
         {% assign name = name | prepend: page.date %}
         {% assign post = site.categories['record'] | where_exp: "item", "item.path contains name" | first %}
+        {% assign cond = i | modulo: 2 %}
+        {% if cond == 0 %}
         <li>
-          {% assign title = post.title %}
-          {% if title == "Record Awaiting Appraisal" %}
-            {% assign title = post.url | split: "/" | last | prepend: "Record #" %}
-          {% endif %}
+        {% else %}
+        <li style="background-color: #2D2D29">
+        {% endif %}
+          {% assign a = post.content | strip_html | strip_newlines | split: 'A critical appraisal of ‘' %}
+          {% assign b = a[1] | split: '’. Zheln.' %}
+          {% assign title = b[0] %}
           <a href="{{ post.url | prepend: site.baseurl }}">{{ title }}</a>
           {% for tag in post.tags %}
             {% if site.status_tags contains tag %}
