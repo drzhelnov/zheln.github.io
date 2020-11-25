@@ -66,8 +66,11 @@ pass: 34
             {% assign c = b[0] | split: '.' %}
             {% assign title = '' %}
             {% for d in c %}
-              {% if forloop.index0 == 1 %}
+              {% if forloop.index0 > 0 %}
                 {% assign title = title | append: d %}
+                {% if forloop.rindex0 > 0 %}
+                    {% assign title = title | append: '.' %}
+                {% endif %}
               {% endif %}
             {% endfor %}
           {% else %}
