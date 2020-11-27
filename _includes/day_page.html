@@ -41,7 +41,7 @@
           {% assign post = site.categories['record'] | where_exp: "item", "item.path contains name" | first %}
           {% assign content = post.content | strip_html | strip_newlines %}
           {% if content contains site.step_2_waiting %}
-          {% if cond == 0 %}<li>{% else %}<li class="dark-container">{% endif %}
+          {% if cond == 1 %}<li>{% else %}<li class="dark-container">{% endif %}
           {% elsif content contains site.step_2_fail %}
           <li class="red-container">
           {% else %}
