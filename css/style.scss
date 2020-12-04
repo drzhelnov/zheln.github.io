@@ -917,7 +917,13 @@ ul {
 	margin-left: 0%;
 
 	.fa-heart {
-		color: $github-sponsors;
+		color: $red;
+	}
+
+	div#footer_right {
+		.fa-heart {
+			color: $github-sponsors;
+		}
 	}
 
 	@media (min-width: $screen-sm-min) {
