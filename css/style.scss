@@ -21,6 +21,7 @@ $google-plus:    #c95644;
 $facebook:       #365899;
 $paypal:         #005ea6;
 $github:         #f6c2a4;
+$github-sponsors:#ea4aaa;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $tiktok:         #7d88e3;
@@ -224,6 +225,10 @@ ul {
 
 	.fa-github-alt:hover {
 		color: $github;
+	}
+
+	.fa-heart:hover {
+		color: $github-sponsors;
 	}
 
 	.fa-cc-paypal:hover {
@@ -806,7 +811,7 @@ ul {
 			text-align: center;
 
 			.fa-heart {
-				color: $red;
+				color: $github-sponsors;
 			}
 
 		}
@@ -912,7 +917,7 @@ ul {
 	margin-left: 0%;
 
 	.fa-heart {
-		color: $red;
+		color: $github-sponsors;
 	}
 
 	@media (min-width: $screen-sm-min) {
