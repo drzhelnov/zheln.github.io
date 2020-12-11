@@ -30,12 +30,12 @@ step_2_fail: "❌ Does Not Meet Shojania &amp; Bero 2001 True Positive Criteria 
 step_2_waiting: "🔄 Meets Shojania &amp; Bero 2001 True Positive Criteria for Systematic Reviews by Either Title or Abstract?"
 appraisal_log:
   total: "Total"
-  primary-appraisal: "Primary Appraisal"
+  primary-appraisal: "Screened"
   percent-total: "% of Total"
   fail: "❌ Fail"
   pass: "✅ Pass"
   pass-rate: "Pass Rate"
-  number-needed-appraise: "Number Needed to Appraise"
+  number-needed-appraise: "Number Needed to Enrol in Selection"
 
 # Specialty tags
 
