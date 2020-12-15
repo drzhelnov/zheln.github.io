@@ -31,7 +31,7 @@ layout: default
 
       <div class="author">
         <small><i>
-          {% if page.categories != empty %}{% for category in page.categories limit:1 %}{{ category | capitalize }} #{% assign url = page.url | split: "/" %}{{ url | last }}{% endfor %}{% endif %} on <span itemprop="datePublished" content="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</span>
+          {% if page.categories != empty %}{% for category in page.categories limit:1 %}{{ category | capitalize }} #{% assign url = page.url | split: "/" %}{{ url | last }}{% endfor %}{% endif %} on <span itemprop="datePublished" content="{{ page.date }}"><a href="/{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/">{{ page.date | date: "%B %-d, %Y" }}</a></span>
         </i></small>
       </div>
 
