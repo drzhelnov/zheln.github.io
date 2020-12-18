@@ -1,10 +1,10 @@
 # Site settings
 title: "Zheln"
 email: pavel@zheln.com
-description: "Affiliation-free, crowdfunded, nonprofit, Open Science project to appraise & tag w/AMA specialties random 10% of PubMed Systematic Subset daily upd’s. Summary posts Wed & Sat. Methods: osf.io/ejkfc"
+description: "All new systematic reviews from PubMed tagged with AMA specialties for free. Important reviews critically appraised on YouTube. Methods: http://osf.io/y2nrb"
 baseurl: ""
 url: "https://zheln.com"
-title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://doi.org/10.17605/OSF.IO/Z3JU7\">Systematic Review Subset</a>, tag them with <a href=\"https://www.ama-assn.org/specialty\">AMA specialties</a>, and critically appraise the most appealing reviews daily on <a href=\"https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ\">YouTube</a>. My appraisals are very thorough, see methods (<a href=\"https://doi.org/10.17605/OSF.IO/EJKFC\">DOI 10.17605/OSF.IO/EJKFC</a>). This is independent research supported by crowdfunding only. Please consider sending me $1 via <a href=\"https://paypal.me/pjelnov\">PayPal</a> or buying a $1 to $600 subscription on <a href=\"https://patreon.com/zheln\">Patreon</a>, <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a>, or <a href=\"https://opencollective.com/zheln\">Open Collective</a>, where you can also learn more about myself."
+title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://doi.org/10.17605/OSF.IO/Z3JU7\">Systematic Review Subset</a>, tag them with <a href=\"https://www.ama-assn.org/specialty\">AMA specialties</a>, and critically appraise the most appealing reviews daily on <a href=\"https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ\">YouTube</a>. My appraisals are very thorough, see <em>Methods</em> (<a href=\"https://doi.org/10.31222/osf.io/y2nrb\">DOI 10.31222/osf.io/y2nrb</a>). This is independent research supported by crowdfunding only. Please consider sending me $1 via <a href=\"https://paypal.me/pjelnov\">PayPal</a> or buying a $1 to $600 subscription on <a href=\"https://patreon.com/zheln\">Patreon</a>, <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a>, or <a href=\"https://opencollective.com/zheln\">Open Collective</a>, where you can also learn more about myself."
 title_image: /favicons/android-chrome-512x512.png
 google_analytics: "UA-122303329-3"
 disqus_account: 
@@ -21,7 +21,7 @@ search_placeholder: "Type a systematic review PMID, DOI, title, etc."
 search_results_container: "Start typing to find an appraisal of a systematic review. Only the first 10 records will be displayed."
 specialty_page_headline: "By AMA Specialty"
 specialty_page_no_posts: "<ul><li>Unfortunately, no posts have been tagged with this specialty yet.</li><li>Please come back later, or consider making a donation as small as $1 to support my processing of thousands of records weekly either on <a href=\"https://patreon.com/zheln\">Patreon</a>, <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a>, <a href=\"https://opencollective.com/zheln\">Open Collective</a>, or via <a href=\"https://paypal.me/pjelnov\">Paypal</a>.</li><li>Also, you can <a href=\"/browse/\">browse other specialties</a> using the tag cloud or <a href=\"/search/\">look for appraisals directly</a> using the search box.</li><li>In any case, you are welcome to get in touch with me by <a href=\"mailto:pavel@zheln.com\">email</a> or using any of my social links below.</li></ul>"
-ssb_link: "https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#pubmed-search"
+ssb_link: "https://doi.org/10.17605/osf.io/z3ju7"
 day_page_headline: "From Replicated PubMed Systematic Subset"
 day_page_header: "Zheln Records"
 day_page_before_label: "« Day Before"
@@ -229,7 +229,7 @@ tiktok_username:
 
 # Footer
 footer_left: "Website template Carte Noire made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>—Licensed under <a href=\"https://raw.githubusercontent.com/jacobtomlinson/carte-noire/gh-pages/LICENSE\">GPL v3</a>.<br />Original Woodpecker Icon by <a href=\"https://thenounproject.com/parkasever/\">Anton</a>—Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode\">CC BY 3.0</a>."
-footer_right: "<i class=\"fas fa-graduation-cap\"></i> <a href=\"https://doi.org/10.17605/OSF.IO/EJKFC\">Methods</a> | <i class=\"fas fa-tasks\"></i> <a href=\"https://github.com/drzhelnov/zheln.github.io/projects/\">Kanbans</a><br />&lt;/&gt; on <a href=\"https://github.com/drzhelnov/zheln.github.io\">GitHub</a> &nbsp;<i class=\"fa fa-github-alt\"></i><br />&copy; <a href=\"https://zheln.com\">Zheln</a>, 2020 | <i class=\"far fa-heart\"></i> <a href=\"https://github.com/sponsors/drzhelnov\">Support</a>"
+footer_right: "<i class=\"fas fa-graduation-cap\"></i> <a href=\"https://doi.org/10.31222/osf.io/y2nrb\">Methods</a> | <i class=\"fas fa-tasks\"></i> <a href=\"https://github.com/drzhelnov/zheln.github.io/projects/\">Kanbans</a><br />&lt;/&gt; on <a href=\"https://github.com/drzhelnov/zheln.github.io\">GitHub</a> &nbsp;<i class=\"fa fa-github-alt\"></i><br />&copy; <a href=\"https://zheln.com\">Zheln</a>, 2020 | <i class=\"far fa-heart\"></i> <a href=\"https://github.com/sponsors/drzhelnov\">Support</a>"
 
 # Build settings
 markdown: kramdown
