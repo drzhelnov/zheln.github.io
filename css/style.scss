@@ -22,6 +22,7 @@ $facebook:       #365899;
 $paypal:         #005ea6;
 $github:         #f6c2a4;
 $github-sponsors:#ea4aaa;
+$github-repo:    #000000;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $tiktok:         #7d88e3;
@@ -225,6 +226,10 @@ ul {
 
 	.fa-github-alt:hover {
 		color: $github;
+	}
+	
+	.fa-github:hover {
+		color: $github-repo;
 	}
 
 	.fa-heart:hover {
