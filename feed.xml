@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheln</title>
+    <description>All new systematic reviews from PubMed tagged with AMA specialties for free. Important reviews critically appraised on YouTube. Methods: http://osf.io/y2nrb</description>
+    <link>https://zheln.com/</link>
+    <atom:link href="https://zheln.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 30 Dec 2020 22:07:43 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Dec 2020 22:07:43 +0000</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>The 30th Anniversary Summary Post</title>
+        <description>&lt;p&gt;&lt;small&gt;Zhelnov P. The 30th Anniversary Summary Post. Zheln. 2020 Dec 30;53(1):s30e1. URI: https://zheln.com/summary/2020/12/30/1/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2020/12/26/2/&quot;&gt;« Previous Summary Post&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2021/01/02/2/&quot;&gt;Next Summary Post »&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;zheln-is-your-new-way-to-experience-health-news&quot;&gt;Zheln Is Your New Way to Experience Health News&lt;/h2&gt;
+
+&lt;h3 id=&quot;health-news-are-often-misleading-but-not-on-zheln&quot;&gt;Health News Are Often Misleading, but Not on Zheln&lt;/h3&gt;
+
+&lt;p&gt;This is because only a single primary study is often presented, &lt;strong&gt;whereas on Zheln, you’ll find systematic reviews of studies only.&lt;/strong&gt; &lt;a href=&quot;/search/&quot;&gt;Search for reviews&lt;/a&gt; now!&lt;/p&gt;
+
+&lt;p&gt;Also, the studies themselves may be misleading due to various problems arising from their conduct. Any comprehensive analysis of these problems or attempts to reproduce the review findings are rarely undertaken, &lt;strong&gt;while Zheln reviews are critically appraised thoroughly with focused replication&lt;/strong&gt; (please check the &lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;academic Zheln protocol&lt;/a&gt; to see for yourself how good our methods are).&lt;/p&gt;
+
+&lt;p&gt;At the same time, spurious results are easily disseminated in health news. &lt;strong&gt;On Zheln, we cautiously propagate only the most credible, hard-won evidence.&lt;/strong&gt; Watch &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;Zheln Health News videos on YouTube&lt;/a&gt; or consult the &lt;a href=&quot;https://zheln.com/summary/2020/12/26/2/#list-of-included-studies&quot;&gt;list of reviews currently under appraisal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Health news agencies are also rarely, if ever, independent entities. &lt;strong&gt;In contrast, Zheln is fully affiliation-free, &lt;a href=&quot;https://github.com/drzhelnov/zheln.github.io/projects&quot;&gt;fully open&lt;/a&gt;, nonprofit, and supported by crowdfunding only.&lt;/strong&gt; Please &lt;a href=&quot;https://opencollective.com/zheln/donate&quot;&gt;help support Zheln&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This combination of &lt;em&gt;systematicness,&lt;/em&gt; &lt;em&gt;caution,&lt;/em&gt; and &lt;em&gt;independence&lt;/em&gt; ultimately makes Zheln your best source of news about health.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;looking-for-new-research-in-your-medical-specialty-zheln-is-here-to-help&quot;&gt;Looking for New Research in Your Medical Specialty? Zheln Is Here to Help!&lt;/h3&gt;
+
+&lt;p&gt;Systematic reviews on Zheln are tagged with &lt;a href=&quot;https://www.ama-assn.org/specialty&quot;&gt;AMA specialties&lt;/a&gt;, so you can always check &lt;a href=&quot;/browse/&quot;&gt;your medical specialty page&lt;/a&gt; for research updates.&lt;/p&gt;
+
+&lt;h2 id=&quot;give-feedback-and-spread-the-word&quot;&gt;Give Feedback and Spread the Word&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;Email Me&lt;/a&gt; about Anything&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also easily contact me on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Get back on &lt;a href=&quot;https://github.com/drzhelnov/zheln.github.io/milestone/102&quot;&gt;Sat, Jan 2&lt;/a&gt; for the next summary post!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;nuts--bolts-for-evidence-synthesis-geeks&quot;&gt;Nuts &amp;amp; Bolts for Evidence Synthesis Geeks&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/flow-diagram/2020-12-30-1.png&quot; alt=&quot;Zheln Flow Diagram for Dec 30, 2020&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the Zheln flow diagram. It shows the flow of systematic reviews on Zheln since the previous summary post. The flow diagram is modified from the &lt;a href=&quot;https://doi.org/10.31222/osf.io/v7gm2&quot;&gt;PRISMA 2020 Statement preprint&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/mjpages&quot;&gt;Matthew Page&lt;/a&gt; et al. and the &lt;a href=&quot;https://github.com/nealhaddaway/SRflowdiagram&quot;&gt;SRflowdiagram&lt;/a&gt; tool by &lt;a href=&quot;https://twitter.com/nealhaddaway&quot;&gt;Neal Haddaway&lt;/a&gt;. I am deeply grateful to the original authors!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/summary/2020/12/30/1/</link>
+        <guid isPermaLink="true">https://zheln.com/summary/2020/12/30/1/</guid>
+        
+        
+        <category>summary</category>
+        
+      </item>
+    
+      <item>
+        <title>Running Out of Funds</title>
+        <description>&lt;p&gt;&lt;small&gt;Zhelnov P. Running out of funds. Zheln. 2020 Dec 26;52(2):s29e2. URI: https://zheln.com/summary/2020/12/26/2/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2020/12/23/1/&quot;&gt;« Previous Summary Post&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2020/12/30/1/&quot;&gt;Next Summary Post »&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://zheln.com/summary/2020/10/03/2/&quot;&gt;As predicted&lt;/a&gt;, Zheln is running out of funds.&lt;/li&gt;
+    &lt;li&gt;Nothing happened on Zheln in the past week.&lt;/li&gt;
+    &lt;li&gt;Starting next week, record screening and tagging and appraisals are officially on pause.&lt;/li&gt;
+    &lt;li&gt;However, I will continue to download daily records from PubMed to ensure continuity.&lt;/li&gt;
+    &lt;li&gt;The time to work closely on the &lt;a href=&quot;https://github.com/drzhelnov/zheln.github.io/issues/36&quot;&gt;business model for Zheln&lt;/a&gt; has eventually come. I’m currently working on it and a couple related projects.&lt;/li&gt;
+    &lt;li&gt;More info on the Zheln’s future is about to come in the next, &lt;strong&gt;Anniversary 30th Zheln Summary Post.&lt;/strong&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;who-is-zheln-for&quot;&gt;Who Is Zheln For?&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;Everyone&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch thorough and concise video-reviews of new important health research&lt;/a&gt; on YouTube (&lt;em&gt;Health Science News&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;Health Care Practitioners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/browse/&quot;&gt;Stay up to date with published systematic reviews in your AMA medical specialty&lt;/a&gt; (&lt;em&gt;Zheln Records&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-graduation-cap&quot;&gt;&lt;/i&gt; &lt;strong&gt;Academic Researchers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;Explore methods used to power this affiliation-free, crowdfunded, living open evidence synthesis&lt;/a&gt; (&lt;em&gt;Zheln Protocol&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;what-exactly-is-zheln&quot;&gt;What Exactly Is Zheln?&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/e36070e2350f628cd010200ce2b90b0d79c56203/zheln/Work_Schedule.md&quot;&gt;Work Schedule&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/e36070e2350f628cd010200ce2b90b0d79c56203/zheln/Worked_Time_Log.md&quot;&gt;Worked-Time Log&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/e36070e2350f628cd010200ce2b90b0d79c56203/zheln/Appraisal_Log.md&quot;&gt;Appraisal Log&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In practice, Zheln has got two components: &lt;em&gt;Zheln Records&lt;/em&gt; and &lt;em&gt;Zheln Appraisals&lt;/em&gt; aka &lt;em&gt;&lt;strong&gt;Health Science News.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;zheln-records&quot;&gt;Zheln Records&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Zheln Records&lt;/em&gt; are records that came from my &lt;a href=&quot;https://https://doi.org/10.17605/osf.io/z3ju7&quot;&gt;Replicated Systematic Subset&lt;/a&gt; PubMed query retrieving &lt;strong&gt;most of all systematic reviews being published.&lt;/strong&gt; They are different from plain PubMed records in that I’m tagging them with &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.csv&quot;&gt;AMA specialty tags&lt;/a&gt; taken from the &lt;a href=&quot;https://www.ama-assn.org/practice-management/masterfile/ama-physician-masterfile&quot;&gt;AMA Physician Masterfile&lt;/a&gt; specialty list, so you can &lt;a href=&quot;/browse/&quot;&gt;browse Zheln Records by AMA Specialty&lt;/a&gt;, whereas on PubMed, locating all records relevant to your specialty requires use of very extensive search strategies and is, in practice, unfeasible. Of course, &lt;a href=&quot;/search/&quot;&gt;Zheln Record Search&lt;/a&gt; is also available.&lt;/li&gt;
+  &lt;li&gt;They are added daily (unless &lt;a href=&quot;https://twitter.com/drzhelnov/status/1339909838994862082&quot;&gt;PubMed fails, and it does&lt;/a&gt;), most of them were published this fall, and each of them is counting as a &lt;em&gt;true positive&lt;/em&gt; by &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; criteria for systematic reviews. There are &lt;strong&gt;864 recent systematic review&lt;/strong&gt; records on Zheln currently.&lt;/li&gt;
+  &lt;li&gt;As you can see from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md&quot;&gt;Zheln appraisal log&lt;/a&gt; and from the &lt;a href=&quot;#zheln-flow-diagram&quot;&gt;flow diagram below&lt;/a&gt;, only a (random) fraction of Replicated Systematic Subset records is processed as Zheln Records currently because this is a very high workload (roughly &lt;strong&gt;500&lt;/strong&gt; new records &lt;strong&gt;daily&lt;/strong&gt; on average), but not to worry: As soon as I crowd-raise &lt;a href=&quot;#help-crowdfund-zheln&quot;&gt;enough money to keep Zheln running ($600/mo)&lt;/a&gt;, I will make artificial intelligence do the stuff (in fact, it could manage even better than I do). This will involve discussions with machine learning specialists in evidence synthesis, such as &lt;a href=&quot;https://twitter.com/ijmarshall&quot;&gt;Iain Marshall&lt;/a&gt;, and will allow stable processing of 100% of records.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;health-science-news&quot;&gt;Health Science News&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When I skim through the Zheln Records, I select the most appealing systematic reviews, critically appraise and replicate them, and record &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;two-minute summary videos&lt;/a&gt; targeted at general audiences. At first, I planned to publish these videos daily, but now it is clear it is not feasible at present.&lt;/li&gt;
+  &lt;li&gt;As a rule, I select a review for a critical appraisal with replication when the topic covered is likely to have a very large practice impact with regard either to both global health care workers and the public or to the minorities. &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/b86bda0b75e1103991c3d57d22c03a9d49807905&quot;&gt;COVID-19 publications are not selected&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#help-crowdfund-zheln&quot;&gt;Crowdfunding an appraisal&lt;/a&gt; is also possible.&lt;/li&gt;
+  &lt;li&gt;Some of the appraisals are already available as &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;Health Science News on YouTube&lt;/a&gt;. Also, I make some of these &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFHaL88JqTZbIIbeQRRwPqK9&quot;&gt;natively available in Russian&lt;/a&gt;. Finally, all of these are also available from the &lt;a href=&quot;https://www.instagram.com/igzheln&quot;&gt;Zheln Instagram channel&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;scientific-nuts--bolts&quot;&gt;Scientific Nuts &amp;amp; Bolts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zheln is not only an affiliation-free, nonprofit, health-educational project but also a formal scientific study.&lt;/li&gt;
+  &lt;li&gt;Read the preprint of the full-featured academic protocol for the Zheln overview of systematic reviews: &lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;DOI 10.31222/osf.io/y2nrb&lt;/a&gt;. I also submitted it for &lt;a href=&quot;https://www.crd.york.ac.uk/prospero/&quot;&gt;PROSPERO&lt;/a&gt; registration but was told processing the submission might take up to three months due to very high demand.&lt;/li&gt;
+  &lt;li&gt;It has not been peer-reviewed yet, but I’m eager! I welcome wide discussion and feedback of any sort very much, so please do &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;engage me on Twitter&lt;/a&gt; or &lt;a href=&quot;#give-feedback-and-spread-the-word&quot;&gt;elsewhere&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;Also, I have started contacting the authors and publishers of the systematic reviews I appraise (first &lt;a href=&quot;https://www.twitter.com/drzhelnov&quot;&gt;on Twitter&lt;/a&gt;, then, if no answer, by email) to collect more feedback and possibly resolve any content misunderstandings at my end. Please &lt;a href=&quot;https://www.twitter.com/drzhelnov&quot;&gt;follow me on Twitter&lt;/a&gt; to engage in public discussions; I’m really looking forward to this!&lt;/li&gt;
+  &lt;li&gt;At last, external peer comments on the project have &lt;a href=&quot;https://www.researchgate.net/publication/346654522_Zhelncom_A_protocol_for_a_universal_living_overview_of_health-related_systematic_reviews/comments&quot;&gt;started to appear at ResearchGate&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zheln-flow-diagram&quot;&gt;Zheln Flow Diagram&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/flow-diagram/2020-12-26-2.png&quot; alt=&quot;Zheln Flow Diagram for Dec 26, 2020&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the Zheln flow diagram. It shows the flow of systematic reviews on Zheln since the &lt;a href=&quot;https://zheln.com/summary/2020/12/23/1/&quot;&gt;last summary post&lt;/a&gt;. The flow diagram is modified from the &lt;a href=&quot;https://doi.org/10.31222/osf.io/v7gm2&quot;&gt;PRISMA 2020 Statement preprint&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/mjpages&quot;&gt;Matthew Page&lt;/a&gt; et al. and the &lt;a href=&quot;https://github.com/nealhaddaway/SRflowdiagram&quot;&gt;SRflowdiagram&lt;/a&gt; tool by &lt;a href=&quot;https://twitter.com/nealhaddaway&quot;&gt;Neal Haddaway&lt;/a&gt;. I am deeply grateful to the original authors!&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-included-studies&quot;&gt;List of Included Studies&lt;/h2&gt;
+
+&lt;p&gt;Some of the appraisals are already available as videos on &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;YouTube&lt;/a&gt;, so click the &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; button next to the appraisal heading to watch them.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/17/51/&quot;&gt;Target Blood Pressure in HTN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/12/62/&quot;&gt;Vegetarian Diets &amp;amp; Maternal Health&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=zW3YxVww0Pc&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/92/&quot;&gt;Empathy Training in Health Care #2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/148/&quot;&gt;Oceans &amp;amp; Human Health in Europe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/194/&quot;&gt;Complementary and Alternative Medicine  for Female or Male Infertility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/251/&quot;&gt;Sedentary Time &amp;amp; All-Cause Mortality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/256/&quot;&gt;Maintenance of Abstinence from Alcohol in Primary Care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/271/&quot;&gt;WHO Sedentary Behavior Guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/275/&quot;&gt;WHO Sedentary Behavior Guidelines #2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/273/&quot;&gt;WHO Sedentary Behavior Guidelines #3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/274/&quot;&gt;WHO Sedentary Behavior Guidelines #4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/361/&quot;&gt;Preventing Foot Ulceration in Diabetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/139/&quot;&gt;Prevention of Antibiotic-Associated Diarrhea in Adults&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=CCaLjJSKmqI&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/67/&quot;&gt;International Consensus Statement on Rhinology and Allergy: Rhinosinusitis&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=uq1rAuHu0Dc&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/16/170/&quot;&gt;Literacy in Omics Sciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/72/&quot;&gt;Mindfullness Mobile Apps in Europe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/202/&quot;&gt;Transcranial AC Stimulation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/207/&quot;&gt;Equity in Virtual Health Care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/349/&quot;&gt;USPSTF on Pediatric HTN Screening&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/351/&quot;&gt;Respiratory Virus Sampling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/429/&quot;&gt;Climate Change &amp;amp; Pregnancy AEs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/514/&quot;&gt;Supplements for Pregnancy HTN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/604/&quot;&gt;VA/DoD Low Back Pain Guideline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/624/&quot;&gt;Meds for (Meth)amphetamine Use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/632/&quot;&gt;Sport After Youth Trauma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/650/&quot;&gt;Lifestyle &amp;amp; Prostate Cancer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/100/&quot;&gt;Martial Arts &amp;amp; Mental Health&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/204/&quot;&gt;Compassion for Self-Esteem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/304/&quot;&gt;E-Cigs &amp;amp; Metabolic Syndrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/307/&quot;&gt;Biodegradation of Plastics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/341/&quot;&gt;Schoolbag Weight &amp;amp; Back Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/22/148/&quot;&gt;Massive Diabetes Prevention&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/22/127/&quot;&gt;Attitudes &amp;amp; Eating Behavior&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;https://zheln.com/record/2020/10/31/17/&quot;&gt;effect of physical exercise on executive function in adults older than 55 years of age&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/31/30/&quot;&gt;therapeutic options for Gulf War Illness&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How important the concept of &lt;a href=&quot;https://zheln.com/record/2020/10/31/370/&quot;&gt;homesickness&lt;/a&gt; is?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/31/506/&quot;&gt;fetal outcomes of opioid detoxification in pregnancy&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the outcomes of &lt;a href=&quot;https://zheln.com/record/2020/10/30/26/&quot;&gt;acetaminophen v. ibuprofen for fever or pain in children under two years old&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;Is quality and safety of hospital care different in &lt;a href=&quot;https://zheln.com/record/2020/10/30/724/&quot;&gt;outlying patients&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective is a &lt;a href=&quot;https://zheln.com/record/2020/10/30/178/&quot;&gt;combination of alpha-blockers and PDE5-inhibitors for lower urinary tract symptoms&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;Is it good and safe to allow &lt;a href=&quot;https://zheln.com/record/2020/10/24/75/&quot;&gt;mother and baby skin-to-skin contact during a cesarian&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What interventions are there to &lt;a href=&quot;https://zheln.com/record/2020/10/24/88/&quot;&gt;manage diabetes in homeless adults&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What use are &lt;a href=&quot;https://zheln.com/record/2020/10/24/99/&quot;&gt;mindfulness-based interventions for mental symptoms of Parkinson’s disease&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What progress has been made to date in terms of &lt;a href=&quot;https://zheln.com/record/2020/10/24/177/&quot;&gt;universal influenza vaccines&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective are &lt;a href=&quot;https://zheln.com/record/2020/10/23/235/&quot;&gt;interventions to improve antibiotic-prescription behavior among PCPs&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the reports of &lt;a href=&quot;https://zheln.com/record/2020/10/16/357/&quot;&gt;practical use of national guidelines on movement in Canada and similar countries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What evidence is there to support &lt;a href=&quot;https://zheln.com/record/2020/10/16/425/&quot;&gt;active break policies in elementary schools&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is known regarding &lt;a href=&quot;https://zheln.com/record/2020/10/19/267/&quot;&gt;policy to address pediatric suicidality&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How important is &lt;a href=&quot;https://zheln.com/record/2020/10/14/28/&quot;&gt;postural control in Down syndrome&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What works for &lt;a href=&quot;https://zheln.com/record/2020/10/14/87/&quot;&gt;at-risk mental states&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the effect of &lt;a href=&quot;https://zheln.com/record/2020/10/09/15/&quot;&gt;ticagrelor monotherapy after PCI&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How good is &lt;a href=&quot;https://zheln.com/record/2020/10/09/17/&quot;&gt;social accountability for reproductive, maternal, newborn, child, and adolescent health&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is in the &lt;a href=&quot;https://zheln.com/record/2020/10/09/302/&quot;&gt;American Psychiatric Association guideline on schizophrenia&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Crowdfunded&lt;/code&gt; How effective are &lt;a href=&quot;https://zheln.com/record/2020/09/27/19/&quot;&gt;tooth decay prevention measures in children six years old or younger&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How good is &lt;a href=&quot;https://zheln.com/record/2020/09/27/10/&quot;&gt;C-reactive protein measurement with regard to health outcomes&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the association between &lt;a href=&quot;https://zheln.com/record/2020/09/27/21/&quot;&gt;sugar-free gum and dental caries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How big is the &lt;a href=&quot;https://zheln.com/record/2020/09/27/36/&quot;&gt;impact of perinatal care systems on infant mortality&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective is &lt;a href=&quot;https://zheln.com/record/2020/09/27/37/&quot;&gt;empathy training in health care education&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/09/27/45/&quot;&gt;current therapeutic applications of human mesenchymal stem cells&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How useful is &lt;a href=&quot;https://zheln.com/record/2020/09/27/46/&quot;&gt;patient blood management to improve outcomes of major surgery&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the effectiveness of &lt;a href=&quot;https://zheln.com/record/2020/10/02/345/&quot;&gt;eHealth interventions for improving public health&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;/record/2020/09/27/6/&quot;&gt;risk of congenital malformations associated with beta-blocker use in early pregnancy&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective &lt;a href=&quot;/record/2020/09/02/1/&quot;&gt;behavioral weight-loss interventions in diabetes&lt;/a&gt; are?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;reports-wanted&quot;&gt;Reports Wanted&lt;/h2&gt;
+
+&lt;p&gt;I had selected these systematic reviews for a critical appraisal with replication, but their reports were unavailable to me. Please &lt;a href=&quot;#see-you-around-peer&quot;&gt;contact me&lt;/a&gt; if you wish to help procuring them.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/11/26/&quot;&gt;Residential Greenness &amp;amp; Birth Outcomes&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=E1mFXONqnBg&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/45/&quot;&gt;Calcium and Vitamin D Supplementation for Osteoporosis in Postmenopausal Women&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=22ePQA5-peE&amp;amp;t=6670s&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/213/&quot;&gt;Ethics of Familial Genetic Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How good is the &lt;a href=&quot;https://zheln.com/record/2020/10/16/49/&quot;&gt;uptake of the WHO Surgical Safety Checklist in low- and middle-income countries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/19/44/&quot;&gt;outcome predictors of Parent Management Training for child conduct problems&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;https://zheln.com/record/2020/10/19/210/&quot;&gt;role of a Registered Dietitian in weight management&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective are &lt;a href=&quot;https://zheln.com/record/2020/10/14/116/&quot;&gt;anti-amyloid-β drugs for Alzheimer’s disease&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How is &lt;a href=&quot;https://zheln.com/record/2020/09/27/7/&quot;&gt;homelessness experienced by transgender people&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How useful is &lt;a href=&quot;https://zheln.com/record/2020/09/27/47/&quot;&gt;physical exercise for people living with breast cancer&lt;/a&gt;?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Get back on &lt;a href=&quot;https://github.com/drzhelnov/zheln.github.io/milestone/97&quot;&gt;Wed, Dec 30&lt;/a&gt; for the Anniversary 30th Zheln Summary Post&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch Health Science News&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;/browse/&quot;&gt;Browse Recent Systematic Reviews by Medical Specialty&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-file-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;Read the Academic Protocol for Zheln&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;give-feedback-and-spread-the-word&quot;&gt;Give Feedback and Spread the Word&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;Email Me&lt;/a&gt; about Anything&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also easily contact me on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;help-crowdfund-zheln&quot;&gt;Help Crowdfund Zheln&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Zheln Is Supported by Crowdfunding Only&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe for $1/mo to $600/mo on&lt;/strong&gt; &lt;i class=&quot;fab fa-patreon&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fab fa-github-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-cc-paypal&quot;&gt;&lt;/i&gt; &lt;strong&gt;Send Any Amount via &lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;PayPal&lt;/a&gt; or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-grin-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;Bonus for &lt;em&gt;Star Wars&lt;/em&gt; Fans!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zheln subscription enables you to change the icon of a given Zheln record to a &lt;em&gt;Star Wars&lt;/em&gt; symbol of your choice! Learn more on the Zheln subscription platforms: &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All Other Zheln Features Are Free for Everyone&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com/search&quot;&gt;Search for Appraisals&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com/browse&quot;&gt;Browse by AMA Specialty&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com&quot;&gt;Read Twice-Weekly Appraisal Summaries&lt;/a&gt;,&lt;/strong&gt; or &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch Daily Video Appraisals on YouTube&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/summary/2020/12/26/2/</link>
+        <guid isPermaLink="true">https://zheln.com/summary/2020/12/26/2/</guid>
+        
+        
+        <category>summary</category>
+        
+      </item>
+    
+      <item>
+        <title>The 28th Summary Post</title>
+        <description>&lt;p&gt;&lt;small&gt;Zhelnov P. The 28th summary post. Zheln. 2020 Dec 23;52(1):s28e2. URI: https://zheln.com/summary/2020/12/23/1/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2020/12/19/2/&quot;&gt;« Previous Summary Post&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2020/12/26/2/&quot;&gt;Next Summary Post »&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;who-is-zheln-for&quot;&gt;Who Is Zheln For?&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;Everyone&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch thorough and concise video-reviews of new important health research&lt;/a&gt; on YouTube (&lt;em&gt;Health Science News&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;Health Care Practitioners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/browse/&quot;&gt;Stay up to date with published systematic reviews in your AMA medical specialty&lt;/a&gt; (&lt;em&gt;Zheln Records&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-graduation-cap&quot;&gt;&lt;/i&gt; &lt;strong&gt;Academic Researchers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;Explore methods used to power this affiliation-free, crowdfunded, living open evidence synthesis&lt;/a&gt; (&lt;em&gt;Zheln Protocol&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;what-exactly-is-zheln&quot;&gt;What Exactly Is Zheln?&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/82e95e9229d79afa456672b382c4e67648023ea2/zheln/Work_Schedule.md&quot;&gt;Work Schedule&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/82e95e9229d79afa456672b382c4e67648023ea2/zheln/Worked_Time_Log.md&quot;&gt;Worked-Time Log&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/82e95e9229d79afa456672b382c4e67648023ea2/zheln/Appraisal_Log.md&quot;&gt;Appraisal Log&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In practice, Zheln has got two components: &lt;em&gt;Zheln Records&lt;/em&gt; and &lt;em&gt;Zheln Appraisals&lt;/em&gt; aka &lt;em&gt;&lt;strong&gt;Health Science News.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;zheln-records&quot;&gt;Zheln Records&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Zheln Records&lt;/em&gt; are records that came from my &lt;a href=&quot;https://https://doi.org/10.17605/osf.io/z3ju7&quot;&gt;Replicated Systematic Subset&lt;/a&gt; PubMed query retrieving &lt;strong&gt;most of all systematic reviews being published.&lt;/strong&gt; They are different from plain PubMed records in that I’m tagging them with &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.csv&quot;&gt;AMA specialty tags&lt;/a&gt; taken from the &lt;a href=&quot;https://www.ama-assn.org/practice-management/masterfile/ama-physician-masterfile&quot;&gt;AMA Physician Masterfile&lt;/a&gt; specialty list, so you can &lt;a href=&quot;/browse/&quot;&gt;browse Zheln Records by AMA Specialty&lt;/a&gt;, whereas on PubMed, locating all records relevant to your specialty requires use of very extensive search strategies and is, in practice, unfeasible. Of course, &lt;a href=&quot;/search/&quot;&gt;Zheln Record Search&lt;/a&gt; is also available.&lt;/li&gt;
+  &lt;li&gt;They are added daily (unless &lt;a href=&quot;https://twitter.com/drzhelnov/status/1339909838994862082&quot;&gt;PubMed fails, and it does&lt;/a&gt;), most of them were published this fall, and each of them is counting as a &lt;em&gt;true positive&lt;/em&gt; by &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; criteria for systematic reviews. There are &lt;strong&gt;864 recent systematic review&lt;/strong&gt; records on Zheln currently.&lt;/li&gt;
+  &lt;li&gt;As you can see from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md&quot;&gt;Zheln appraisal log&lt;/a&gt; and from the &lt;a href=&quot;#zheln-flow-diagram&quot;&gt;flow diagram below&lt;/a&gt;, only a (random) fraction of Replicated Systematic Subset records is processed as Zheln Records currently because this is a very high workload (roughly &lt;strong&gt;500&lt;/strong&gt; new records &lt;strong&gt;daily&lt;/strong&gt; on average), but not to worry: As soon as I crowd-raise &lt;a href=&quot;#help-crowdfund-zheln&quot;&gt;enough money to keep Zheln running ($600/mo)&lt;/a&gt;, I will make artificial intelligence do the stuff (in fact, it could manage even better than I do). This will involve discussions with machine learning specialists in evidence synthesis, such as &lt;a href=&quot;https://twitter.com/ijmarshall&quot;&gt;Iain Marshall&lt;/a&gt;, and will allow stable processing of 100% of records.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;health-science-news&quot;&gt;Health Science News&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When I skim through the Zheln Records, I select the most appealing systematic reviews, critically appraise and replicate them, and record &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;two-minute summary videos&lt;/a&gt; targeted at general audiences. At first, I planned to publish these videos daily, but now it is clear it is not feasible at present.&lt;/li&gt;
+  &lt;li&gt;As a rule, I select a review for a critical appraisal with replication when the topic covered is likely to have a very large practice impact with regard either to both global health care workers and the public or to the minorities. &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/b86bda0b75e1103991c3d57d22c03a9d49807905&quot;&gt;COVID-19 publications are not selected&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#help-crowdfund-zheln&quot;&gt;Crowdfunding an appraisal&lt;/a&gt; is also possible.&lt;/li&gt;
+  &lt;li&gt;Some of the appraisals are already available as &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;Health Science News on YouTube&lt;/a&gt;. Also, I make some of these &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFHaL88JqTZbIIbeQRRwPqK9&quot;&gt;natively available in Russian&lt;/a&gt;. Finally, all of these are also available from the &lt;a href=&quot;https://www.instagram.com/igzheln&quot;&gt;Zheln Instagram channel&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;scientific-nuts--bolts&quot;&gt;Scientific Nuts &amp;amp; Bolts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zheln is not only an affiliation-free, nonprofit, health-educational project but also a formal scientific study.&lt;/li&gt;
+  &lt;li&gt;Read the preprint of the full-featured academic protocol for the Zheln overview of systematic reviews: &lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;DOI 10.31222/osf.io/y2nrb&lt;/a&gt;. I also submitted it for &lt;a href=&quot;https://www.crd.york.ac.uk/prospero/&quot;&gt;PROSPERO&lt;/a&gt; registration but was told processing the submission might take up to three months due to very high demand.&lt;/li&gt;
+  &lt;li&gt;It has not been peer-reviewed yet, but I’m eager! I welcome wide discussion and feedback of any sort very much, so please do &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;engage me on Twitter&lt;/a&gt; or &lt;a href=&quot;#give-feedback-and-spread-the-word&quot;&gt;elsewhere&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;Also, I have started contacting the authors and publishers of the systematic reviews I appraise (first &lt;a href=&quot;https://www.twitter.com/drzhelnov&quot;&gt;on Twitter&lt;/a&gt;, then, if no answer, by email) to collect more feedback and possibly resolve any content misunderstandings at my end. Please &lt;a href=&quot;https://www.twitter.com/drzhelnov&quot;&gt;follow me on Twitter&lt;/a&gt; to engage in public discussions; I’m really looking forward to this!&lt;/li&gt;
+  &lt;li&gt;At last, external peer comments on the project have &lt;a href=&quot;https://www.researchgate.net/publication/346654522_Zhelncom_A_protocol_for_a_universal_living_overview_of_health-related_systematic_reviews/comments&quot;&gt;started to appear at ResearchGate&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zheln-flow-diagram&quot;&gt;Zheln Flow Diagram&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/flow-diagram/2020-12-23-1.png&quot; alt=&quot;Zheln Flow Diagram for Dec 23, 2020&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the Zheln flow diagram. It shows the flow of systematic reviews on Zheln since the &lt;a href=&quot;https://zheln.com/summary/2020/12/19/2/&quot;&gt;last summary post&lt;/a&gt;. The flow diagram is modified from the &lt;a href=&quot;https://doi.org/10.31222/osf.io/v7gm2&quot;&gt;PRISMA 2020 Statement preprint&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/mjpages&quot;&gt;Matthew Page&lt;/a&gt; et al. and the &lt;a href=&quot;https://github.com/nealhaddaway/SRflowdiagram&quot;&gt;SRflowdiagram&lt;/a&gt; tool by &lt;a href=&quot;https://twitter.com/nealhaddaway&quot;&gt;Neal Haddaway&lt;/a&gt;. I am deeply grateful to the original authors!&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-included-studies&quot;&gt;List of Included Studies&lt;/h2&gt;
+
+&lt;p&gt;Some of the appraisals are already available as videos on &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;YouTube&lt;/a&gt;, so click the &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; button next to the appraisal heading to watch them.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/17/51/&quot;&gt;Target Blood Pressure in HTN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/12/62/&quot;&gt;Vegetarian Diets &amp;amp; Maternal Health&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=zW3YxVww0Pc&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/92/&quot;&gt;Empathy Training in Health Care #2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/148/&quot;&gt;Oceans &amp;amp; Human Health in Europe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/194/&quot;&gt;Complementary and Alternative Medicine  for Female or Male Infertility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/251/&quot;&gt;Sedentary Time &amp;amp; All-Cause Mortality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/256/&quot;&gt;Maintenance of Abstinence from Alcohol in Primary Care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/271/&quot;&gt;WHO Sedentary Behavior Guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/275/&quot;&gt;WHO Sedentary Behavior Guidelines #2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/273/&quot;&gt;WHO Sedentary Behavior Guidelines #3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/274/&quot;&gt;WHO Sedentary Behavior Guidelines #4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/361/&quot;&gt;Preventing Foot Ulceration in Diabetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/139/&quot;&gt;Prevention of Antibiotic-Associated Diarrhea in Adults&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=CCaLjJSKmqI&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/67/&quot;&gt;International Consensus Statement on Rhinology and Allergy: Rhinosinusitis&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=uq1rAuHu0Dc&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/16/170/&quot;&gt;Literacy in Omics Sciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/72/&quot;&gt;Mindfullness Mobile Apps in Europe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/202/&quot;&gt;Transcranial AC Stimulation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/207/&quot;&gt;Equity in Virtual Health Care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/349/&quot;&gt;USPSTF on Pediatric HTN Screening&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/351/&quot;&gt;Respiratory Virus Sampling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/429/&quot;&gt;Climate Change &amp;amp; Pregnancy AEs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/514/&quot;&gt;Supplements for Pregnancy HTN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/604/&quot;&gt;VA/DoD Low Back Pain Guideline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/624/&quot;&gt;Meds for (Meth)amphetamine Use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/632/&quot;&gt;Sport After Youth Trauma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/650/&quot;&gt;Lifestyle &amp;amp; Prostate Cancer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/100/&quot;&gt;Martial Arts &amp;amp; Mental Health&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/204/&quot;&gt;Compassion for Self-Esteem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/304/&quot;&gt;E-Cigs &amp;amp; Metabolic Syndrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/307/&quot;&gt;Biodegradation of Plastics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/341/&quot;&gt;Schoolbag Weight &amp;amp; Back Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/22/148/&quot;&gt;Massive Diabetes Prevention&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/22/127/&quot;&gt;Attitudes &amp;amp; Eating Behavior&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;https://zheln.com/record/2020/10/31/17/&quot;&gt;effect of physical exercise on executive function in adults older than 55 years of age&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/31/30/&quot;&gt;therapeutic options for Gulf War Illness&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How important the concept of &lt;a href=&quot;https://zheln.com/record/2020/10/31/370/&quot;&gt;homesickness&lt;/a&gt; is?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/31/506/&quot;&gt;fetal outcomes of opioid detoxification in pregnancy&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the outcomes of &lt;a href=&quot;https://zheln.com/record/2020/10/30/26/&quot;&gt;acetaminophen v. ibuprofen for fever or pain in children under two years old&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;Is quality and safety of hospital care different in &lt;a href=&quot;https://zheln.com/record/2020/10/30/724/&quot;&gt;outlying patients&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective is a &lt;a href=&quot;https://zheln.com/record/2020/10/30/178/&quot;&gt;combination of alpha-blockers and PDE5-inhibitors for lower urinary tract symptoms&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;Is it good and safe to allow &lt;a href=&quot;https://zheln.com/record/2020/10/24/75/&quot;&gt;mother and baby skin-to-skin contact during a cesarian&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What interventions are there to &lt;a href=&quot;https://zheln.com/record/2020/10/24/88/&quot;&gt;manage diabetes in homeless adults&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What use are &lt;a href=&quot;https://zheln.com/record/2020/10/24/99/&quot;&gt;mindfulness-based interventions for mental symptoms of Parkinson’s disease&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What progress has been made to date in terms of &lt;a href=&quot;https://zheln.com/record/2020/10/24/177/&quot;&gt;universal influenza vaccines&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective are &lt;a href=&quot;https://zheln.com/record/2020/10/23/235/&quot;&gt;interventions to improve antibiotic-prescription behavior among PCPs&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the reports of &lt;a href=&quot;https://zheln.com/record/2020/10/16/357/&quot;&gt;practical use of national guidelines on movement in Canada and similar countries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What evidence is there to support &lt;a href=&quot;https://zheln.com/record/2020/10/16/425/&quot;&gt;active break policies in elementary schools&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is known regarding &lt;a href=&quot;https://zheln.com/record/2020/10/19/267/&quot;&gt;policy to address pediatric suicidality&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How important is &lt;a href=&quot;https://zheln.com/record/2020/10/14/28/&quot;&gt;postural control in Down syndrome&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What works for &lt;a href=&quot;https://zheln.com/record/2020/10/14/87/&quot;&gt;at-risk mental states&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the effect of &lt;a href=&quot;https://zheln.com/record/2020/10/09/15/&quot;&gt;ticagrelor monotherapy after PCI&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How good is &lt;a href=&quot;https://zheln.com/record/2020/10/09/17/&quot;&gt;social accountability for reproductive, maternal, newborn, child, and adolescent health&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is in the &lt;a href=&quot;https://zheln.com/record/2020/10/09/302/&quot;&gt;American Psychiatric Association guideline on schizophrenia&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Crowdfunded&lt;/code&gt; How effective are &lt;a href=&quot;https://zheln.com/record/2020/09/27/19/&quot;&gt;tooth decay prevention measures in children six years old or younger&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How good is &lt;a href=&quot;https://zheln.com/record/2020/09/27/10/&quot;&gt;C-reactive protein measurement with regard to health outcomes&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the association between &lt;a href=&quot;https://zheln.com/record/2020/09/27/21/&quot;&gt;sugar-free gum and dental caries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How big is the &lt;a href=&quot;https://zheln.com/record/2020/09/27/36/&quot;&gt;impact of perinatal care systems on infant mortality&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective is &lt;a href=&quot;https://zheln.com/record/2020/09/27/37/&quot;&gt;empathy training in health care education&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/09/27/45/&quot;&gt;current therapeutic applications of human mesenchymal stem cells&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How useful is &lt;a href=&quot;https://zheln.com/record/2020/09/27/46/&quot;&gt;patient blood management to improve outcomes of major surgery&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the effectiveness of &lt;a href=&quot;https://zheln.com/record/2020/10/02/345/&quot;&gt;eHealth interventions for improving public health&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;/record/2020/09/27/6/&quot;&gt;risk of congenital malformations associated with beta-blocker use in early pregnancy&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective &lt;a href=&quot;/record/2020/09/02/1/&quot;&gt;behavioral weight-loss interventions in diabetes&lt;/a&gt; are?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;reports-wanted&quot;&gt;Reports Wanted&lt;/h2&gt;
+
+&lt;p&gt;I had selected these systematic reviews for a critical appraisal with replication, but their reports were unavailable to me. Please &lt;a href=&quot;#see-you-around-peer&quot;&gt;contact me&lt;/a&gt; if you wish to help procuring them.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/11/26/&quot;&gt;Residential Greenness &amp;amp; Birth Outcomes&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=E1mFXONqnBg&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/45/&quot;&gt;Calcium and Vitamin D Supplementation for Osteoporosis in Postmenopausal Women&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=22ePQA5-peE&amp;amp;t=6670s&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/213/&quot;&gt;Ethics of Familial Genetic Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How good is the &lt;a href=&quot;https://zheln.com/record/2020/10/16/49/&quot;&gt;uptake of the WHO Surgical Safety Checklist in low- and middle-income countries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/19/44/&quot;&gt;outcome predictors of Parent Management Training for child conduct problems&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;https://zheln.com/record/2020/10/19/210/&quot;&gt;role of a Registered Dietitian in weight management&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective are &lt;a href=&quot;https://zheln.com/record/2020/10/14/116/&quot;&gt;anti-amyloid-β drugs for Alzheimer’s disease&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How is &lt;a href=&quot;https://zheln.com/record/2020/09/27/7/&quot;&gt;homelessness experienced by transgender people&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How useful is &lt;a href=&quot;https://zheln.com/record/2020/09/27/47/&quot;&gt;physical exercise for people living with breast cancer&lt;/a&gt;?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Get back for the next summary post on &lt;a href=&quot;https://github.com/drzhelnov/zheln.github.io/milestone/96&quot;&gt;Sat, Dec 26&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch Health Science News&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;/browse/&quot;&gt;Browse Recent Systematic Reviews by Medical Specialty&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-file-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;Read the Academic Protocol for Zheln&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;give-feedback-and-spread-the-word&quot;&gt;Give Feedback and Spread the Word&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;Email Me&lt;/a&gt; about Anything&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also easily contact me on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;help-crowdfund-zheln&quot;&gt;Help Crowdfund Zheln&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Zheln Is Supported by Crowdfunding Only&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Running Zheln takes most of my work capacity. I’ve managed to stay off other jobs for now but will be forced to find another job unless crowdfunded by the end of this year.&lt;/p&gt;
+
+&lt;p&gt;In other words, you can’t be sure Zheln isn’t suspended in 2021 if you avoid funding it. But &lt;strong&gt;if you donate, I pledge to keep running Zheln in recognition of your support.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want Zheln to live on, please use one of these options:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe for $1/mo to $600/mo on&lt;/strong&gt; &lt;i class=&quot;fab fa-patreon&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fab fa-github-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-cc-paypal&quot;&gt;&lt;/i&gt; &lt;strong&gt;Send Any Amount via &lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;PayPal&lt;/a&gt; or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-grin-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;Bonus for &lt;em&gt;Star Wars&lt;/em&gt; Fans!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zheln subscription enables you to change the icon of a given Zheln record to a &lt;em&gt;Star Wars&lt;/em&gt; symbol of your choice! Learn more on the Zheln subscription platforms: &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All Other Zheln Features Are Free for Everyone&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com/search&quot;&gt;Search for Appraisals&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com/browse&quot;&gt;Browse by AMA Specialty&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com&quot;&gt;Read Twice-Weekly Appraisal Summaries&lt;/a&gt;,&lt;/strong&gt; or &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch Daily Video Appraisals on YouTube&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/summary/2020/12/23/1/</link>
+        <guid isPermaLink="true">https://zheln.com/summary/2020/12/23/1/</guid>
+        
+        
+        <category>summary</category>
+        
+      </item>
+    
+      <item>
+        <title>Zheln Records &amp; Appraisals</title>
+        <description>&lt;p&gt;&lt;small&gt;Zhelnov P. Zheln Records &amp;amp; Appraisals. Zheln. 2020 Dec 19;51(2):s27e2. URI: https://zheln.com/summary/2020/12/19/2/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2020/12/16/1/&quot;&gt;« Previous Summary Post&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://zheln.com/summary/2020/12/23/1/&quot;&gt;Next Summary Post »&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;who-is-zheln-for&quot;&gt;Who Is Zheln For?&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;Everyone&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch thorough and concise video-reviews of new important health research&lt;/a&gt; on YouTube (&lt;em&gt;Health Science News&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;Health Care Practitioners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/browse/&quot;&gt;Stay up to date with published systematic reviews in your AMA medical specialty&lt;/a&gt; (&lt;em&gt;Zheln Records&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-graduation-cap&quot;&gt;&lt;/i&gt; &lt;strong&gt;Academic Researchers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;Explore methods used to power this affiliation-free, crowdfunded, living open evidence synthesis&lt;/a&gt; (&lt;em&gt;Zheln Protocol&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;what-exactly-is-zheln&quot;&gt;What Exactly Is Zheln?&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/007b3f5922f816651ad47818c7f48e73d9fb7ef5/zheln/Work_Schedule.md&quot;&gt;Work Schedule&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/007b3f5922f816651ad47818c7f48e73d9fb7ef5/zheln/Worked_Time_Log.md&quot;&gt;Worked-Time Log&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/007b3f5922f816651ad47818c7f48e73d9fb7ef5/zheln/Appraisal_Log.md&quot;&gt;Appraisal Log&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In practice, Zheln has got two components: &lt;em&gt;Zheln Records&lt;/em&gt; and &lt;em&gt;Zheln Appraisals&lt;/em&gt; aka &lt;em&gt;&lt;strong&gt;Health Science News.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;zheln-records&quot;&gt;Zheln Records&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Zheln Records&lt;/em&gt; are records that came from my &lt;a href=&quot;https://https://doi.org/10.17605/osf.io/z3ju7&quot;&gt;Replicated Systematic Subset&lt;/a&gt; PubMed query retrieving &lt;strong&gt;most of all systematic reviews being published.&lt;/strong&gt; They are different from plain PubMed records in that I’m tagging them with &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.csv&quot;&gt;AMA specialty tags&lt;/a&gt; taken from the &lt;a href=&quot;https://www.ama-assn.org/practice-management/masterfile/ama-physician-masterfile&quot;&gt;AMA Physician Masterfile&lt;/a&gt; specialty list, so you can &lt;a href=&quot;/browse/&quot;&gt;browse Zheln Records by AMA Specialty&lt;/a&gt;, whereas on PubMed, locating all records relevant to your specialty requires use of very extensive search strategies and is, in practice, unfeasible. Of course, &lt;a href=&quot;/search/&quot;&gt;Zheln Record Search&lt;/a&gt; is also available.&lt;/li&gt;
+  &lt;li&gt;They are added daily (unless &lt;a href=&quot;https://twitter.com/drzhelnov/status/1339909838994862082&quot;&gt;PubMed fails, and it does&lt;/a&gt;), most of them were published this fall, and each of them is counting as a &lt;em&gt;true positive&lt;/em&gt; by &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; criteria for systematic reviews. There are &lt;strong&gt;864 recent systematic review&lt;/strong&gt; records on Zheln currently.&lt;/li&gt;
+  &lt;li&gt;As you can see from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/Appraisal_Log.md&quot;&gt;Zheln appraisal log&lt;/a&gt; and from the &lt;a href=&quot;#zheln-flow-diagram&quot;&gt;flow diagram below&lt;/a&gt;, only a (random) fraction of Replicated Systematic Subset records is processed as Zheln Records currently because this is a very high workload (roughly &lt;strong&gt;500&lt;/strong&gt; new records &lt;strong&gt;daily&lt;/strong&gt; on average), but not to worry: As soon as I crowd-raise &lt;a href=&quot;#help-crowdfund-zheln&quot;&gt;enough money to keep Zheln running ($600/mo)&lt;/a&gt;, I will make artificial intelligence do the stuff (in fact, it could manage even better than I do). This will involve discussions with machine learning specialists in evidence synthesis, such as &lt;a href=&quot;https://twitter.com/ijmarshall&quot;&gt;Iain Marshall&lt;/a&gt;, and will allow stable processing of 100% of records.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;health-science-news&quot;&gt;Health Science News&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When I skim through the Zheln Records, I select the most appealing systematic reviews, critically appraise and replicate them, and record &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;two-minute summary videos&lt;/a&gt; targeted at general audiences.&lt;/li&gt;
+  &lt;li&gt;As a rule, I select a review for a critical appraisal with replication when the topic covered is likely to have a very large practice impact with regard either to both global health care workers and the public or to the minorities. &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/commit/b86bda0b75e1103991c3d57d22c03a9d49807905&quot;&gt;COVID-19 publications are not selected&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#help-crowdfund-zheln&quot;&gt;Crowdfunding an appraisal&lt;/a&gt; is also possible.&lt;/li&gt;
+  &lt;li&gt;Some of the appraisals are already available as &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;Health Science News on YouTube&lt;/a&gt;. Also, I make some of these &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFHaL88JqTZbIIbeQRRwPqK9&quot;&gt;natively available in Russian&lt;/a&gt;. Finally, all of these are also available from the &lt;a href=&quot;https://www.instagram.com/igzheln&quot;&gt;Zheln Instagram channel&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;scientific-nuts--bolts&quot;&gt;Scientific Nuts &amp;amp; Bolts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zheln is not only an affiliation-free, nonprofit, health-educational project but also a formal scientific study.&lt;/li&gt;
+  &lt;li&gt;Read the preprint of the full-featured academic protocol for the Zheln overview of systematic reviews: &lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;DOI 10.31222/osf.io/y2nrb&lt;/a&gt;. I also submitted it for &lt;a href=&quot;https://www.crd.york.ac.uk/prospero/&quot;&gt;PROSPERO&lt;/a&gt; registration but was told processing the submission might take up to three months due to very high demand.&lt;/li&gt;
+  &lt;li&gt;It has not been peer-reviewed yet, but I’m eager! I welcome wide discussion and feedback of any sort very much, so please do &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;engage me on Twitter&lt;/a&gt; or &lt;a href=&quot;#give-feedback-and-spread-the-word&quot;&gt;elsewhere&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;Also, I have started contacting the authors and publishers of the systematic reviews I appraise (first &lt;a href=&quot;https://www.twitter.com/drzhelnov&quot;&gt;on Twitter&lt;/a&gt;, then, if no answer, by email) to collect more feedback and possibly resolve any content misunderstandings at my end. Please &lt;a href=&quot;https://www.twitter.com/drzhelnov&quot;&gt;follow me on Twitter&lt;/a&gt; to engage in public discussions; I’m really looking forward to this!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;zheln-flow-diagram&quot;&gt;Zheln Flow Diagram&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/flow-diagram/2020-12-19-2.png&quot; alt=&quot;Zheln Flow Diagram for Dec 19, 2020&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the Zheln flow diagram. It shows the flow of systematic reviews on Zheln since the &lt;a href=&quot;https://zheln.com/summary/2020/12/16/1/&quot;&gt;last summary post&lt;/a&gt;. The flow diagram is modified from the &lt;a href=&quot;https://doi.org/10.31222/osf.io/v7gm2&quot;&gt;PRISMA 2020 Statement preprint&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/mjpages&quot;&gt;Matthew Page&lt;/a&gt; et al. and the &lt;a href=&quot;https://github.com/nealhaddaway/SRflowdiagram&quot;&gt;SRflowdiagram&lt;/a&gt; tool by &lt;a href=&quot;https://twitter.com/nealhaddaway&quot;&gt;Neal Haddaway&lt;/a&gt;. I am deeply grateful to the original authors!&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-included-studies&quot;&gt;List of Included Studies&lt;/h2&gt;
+
+&lt;p&gt;Some of the appraisals are already available as videos on &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLspUa13rQFEBgL83-LaeNC-ZT3_qyy-b&quot;&gt;YouTube&lt;/a&gt;, so click the &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; button next to the appraisal heading to watch them.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;New&lt;/code&gt; &lt;a href=&quot;https://zheln.com/record/2020/12/17/51/&quot;&gt;Target Blood Pressure in HTN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/12/62/&quot;&gt;Vegetarian Diets &amp;amp; Maternal Health&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=zW3YxVww0Pc&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/92/&quot;&gt;Empathy Training in Health Care #2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/148/&quot;&gt;Oceans &amp;amp; Human Health in Europe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/194/&quot;&gt;Complementary and Alternative Medicine  for Female or Male Infertility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/251/&quot;&gt;Sedentary Time &amp;amp; All-Cause Mortality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/256/&quot;&gt;Maintenance of Abstinence from Alcohol in Primary Care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/271/&quot;&gt;WHO Sedentary Behavior Guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/275/&quot;&gt;WHO Sedentary Behavior Guidelines #2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/273/&quot;&gt;WHO Sedentary Behavior Guidelines #3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/274/&quot;&gt;WHO Sedentary Behavior Guidelines #4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/27/361/&quot;&gt;Preventing Foot Ulceration in Diabetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/139/&quot;&gt;Prevention of Antibiotic-Associated Diarrhea in Adults&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=CCaLjJSKmqI&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/67/&quot;&gt;International Consensus Statement on Rhinology and Allergy: Rhinosinusitis&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=uq1rAuHu0Dc&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/16/170/&quot;&gt;Literacy in Omics Sciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/72/&quot;&gt;Mindfullness Mobile Apps in Europe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/202/&quot;&gt;Transcranial AC Stimulation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/207/&quot;&gt;Equity in Virtual Health Care&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/349/&quot;&gt;USPSTF on Pediatric HTN Screening&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/351/&quot;&gt;Respiratory Virus Sampling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/429/&quot;&gt;Climate Change &amp;amp; Pregnancy AEs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/514/&quot;&gt;Supplements for Pregnancy HTN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/604/&quot;&gt;VA/DoD Low Back Pain Guideline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/624/&quot;&gt;Meds for (Meth)amphetamine Use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/632/&quot;&gt;Sport After Youth Trauma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/650/&quot;&gt;Lifestyle &amp;amp; Prostate Cancer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/100/&quot;&gt;Martial Arts &amp;amp; Mental Health&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/204/&quot;&gt;Compassion for Self-Esteem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/304/&quot;&gt;E-Cigs &amp;amp; Metabolic Syndrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/307/&quot;&gt;Biodegradation of Plastics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/21/341/&quot;&gt;Schoolbag Weight &amp;amp; Back Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/22/148/&quot;&gt;Massive Diabetes Prevention&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/22/127/&quot;&gt;Attitudes &amp;amp; Eating Behavior&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;https://zheln.com/record/2020/10/31/17/&quot;&gt;effect of physical exercise on executive function in adults older than 55 years of age&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/31/30/&quot;&gt;therapeutic options for Gulf War Illness&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How important the concept of &lt;a href=&quot;https://zheln.com/record/2020/10/31/370/&quot;&gt;homesickness&lt;/a&gt; is?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/31/506/&quot;&gt;fetal outcomes of opioid detoxification in pregnancy&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the outcomes of &lt;a href=&quot;https://zheln.com/record/2020/10/30/26/&quot;&gt;acetaminophen v. ibuprofen for fever or pain in children under two years old&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;Is quality and safety of hospital care different in &lt;a href=&quot;https://zheln.com/record/2020/10/30/724/&quot;&gt;outlying patients&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective is a &lt;a href=&quot;https://zheln.com/record/2020/10/30/178/&quot;&gt;combination of alpha-blockers and PDE5-inhibitors for lower urinary tract symptoms&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;Is it good and safe to allow &lt;a href=&quot;https://zheln.com/record/2020/10/24/75/&quot;&gt;mother and baby skin-to-skin contact during a cesarian&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What interventions are there to &lt;a href=&quot;https://zheln.com/record/2020/10/24/88/&quot;&gt;manage diabetes in homeless adults&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What use are &lt;a href=&quot;https://zheln.com/record/2020/10/24/99/&quot;&gt;mindfulness-based interventions for mental symptoms of Parkinson’s disease&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What progress has been made to date in terms of &lt;a href=&quot;https://zheln.com/record/2020/10/24/177/&quot;&gt;universal influenza vaccines&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective are &lt;a href=&quot;https://zheln.com/record/2020/10/23/235/&quot;&gt;interventions to improve antibiotic-prescription behavior among PCPs&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the reports of &lt;a href=&quot;https://zheln.com/record/2020/10/16/357/&quot;&gt;practical use of national guidelines on movement in Canada and similar countries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What evidence is there to support &lt;a href=&quot;https://zheln.com/record/2020/10/16/425/&quot;&gt;active break policies in elementary schools&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is known regarding &lt;a href=&quot;https://zheln.com/record/2020/10/19/267/&quot;&gt;policy to address pediatric suicidality&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How important is &lt;a href=&quot;https://zheln.com/record/2020/10/14/28/&quot;&gt;postural control in Down syndrome&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What works for &lt;a href=&quot;https://zheln.com/record/2020/10/14/87/&quot;&gt;at-risk mental states&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the effect of &lt;a href=&quot;https://zheln.com/record/2020/10/09/15/&quot;&gt;ticagrelor monotherapy after PCI&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How good is &lt;a href=&quot;https://zheln.com/record/2020/10/09/17/&quot;&gt;social accountability for reproductive, maternal, newborn, child, and adolescent health&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is in the &lt;a href=&quot;https://zheln.com/record/2020/10/09/302/&quot;&gt;American Psychiatric Association guideline on schizophrenia&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Crowdfunded&lt;/code&gt; How effective are &lt;a href=&quot;https://zheln.com/record/2020/09/27/19/&quot;&gt;tooth decay prevention measures in children six years old or younger&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How good is &lt;a href=&quot;https://zheln.com/record/2020/09/27/10/&quot;&gt;C-reactive protein measurement with regard to health outcomes&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the association between &lt;a href=&quot;https://zheln.com/record/2020/09/27/21/&quot;&gt;sugar-free gum and dental caries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How big is the &lt;a href=&quot;https://zheln.com/record/2020/09/27/36/&quot;&gt;impact of perinatal care systems on infant mortality&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective is &lt;a href=&quot;https://zheln.com/record/2020/09/27/37/&quot;&gt;empathy training in health care education&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/09/27/45/&quot;&gt;current therapeutic applications of human mesenchymal stem cells&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How useful is &lt;a href=&quot;https://zheln.com/record/2020/09/27/46/&quot;&gt;patient blood management to improve outcomes of major surgery&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the effectiveness of &lt;a href=&quot;https://zheln.com/record/2020/10/02/345/&quot;&gt;eHealth interventions for improving public health&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;/record/2020/09/27/6/&quot;&gt;risk of congenital malformations associated with beta-blocker use in early pregnancy&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective &lt;a href=&quot;/record/2020/09/02/1/&quot;&gt;behavioral weight-loss interventions in diabetes&lt;/a&gt; are?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;reports-wanted&quot;&gt;Reports Wanted&lt;/h2&gt;
+
+&lt;p&gt;I had selected these systematic reviews for a critical appraisal with replication, but their reports were unavailable to me. Please &lt;a href=&quot;#see-you-around-peer&quot;&gt;contact me&lt;/a&gt; if you wish to help procuring them.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/12/11/26/&quot;&gt;Residential Greenness &amp;amp; Birth Outcomes&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=E1mFXONqnBg&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/25/45/&quot;&gt;Calcium and Vitamin D Supplementation for Osteoporosis in Postmenopausal Women&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=22ePQA5-peE&amp;amp;t=6670s&quot;&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zheln.com/record/2020/11/20/213/&quot;&gt;Ethics of Familial Genetic Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How good is the &lt;a href=&quot;https://zheln.com/record/2020/10/16/49/&quot;&gt;uptake of the WHO Surgical Safety Checklist in low- and middle-income countries&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What are the &lt;a href=&quot;https://zheln.com/record/2020/10/19/44/&quot;&gt;outcome predictors of Parent Management Training for child conduct problems&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;What is the &lt;a href=&quot;https://zheln.com/record/2020/10/19/210/&quot;&gt;role of a Registered Dietitian in weight management&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How effective are &lt;a href=&quot;https://zheln.com/record/2020/10/14/116/&quot;&gt;anti-amyloid-β drugs for Alzheimer’s disease&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How is &lt;a href=&quot;https://zheln.com/record/2020/09/27/7/&quot;&gt;homelessness experienced by transgender people&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;How useful is &lt;a href=&quot;https://zheln.com/record/2020/09/27/47/&quot;&gt;physical exercise for people living with breast cancer&lt;/a&gt;?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Get back for the next summary post on &lt;a href=&quot;https://github.com/drzhelnov/zheln.github.io/milestone/92&quot;&gt;Wed, Dec 23&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch Health Science News&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;/browse/&quot;&gt;Browse Recent Systematic Reviews by Medical Specialty&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-file-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://doi.org/10.31222/osf.io/y2nrb&quot;&gt;Read the Academic Protocol for Zheln&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;give-feedback-and-spread-the-word&quot;&gt;Give Feedback and Spread the Word&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;Email Me&lt;/a&gt; about Anything&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also easily contact me on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;help-crowdfund-zheln&quot;&gt;Help Crowdfund Zheln&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Zheln Is Supported by Crowdfunding Only&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Running Zheln takes most of my work capacity. I’ve managed to stay off other jobs for now but will be forced to find another job unless crowdfunded by the end of this year.&lt;/p&gt;
+
+&lt;p&gt;In other words, you can’t be sure Zheln isn’t suspended in 2021 if you avoid funding it. But &lt;strong&gt;if you donate, I pledge to keep running Zheln in recognition of your support.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want Zheln to live on, please use one of these options:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe for $1/mo to $600/mo on&lt;/strong&gt; &lt;i class=&quot;fab fa-patreon&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fab fa-github-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-cc-paypal&quot;&gt;&lt;/i&gt; &lt;strong&gt;Send Any Amount via &lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;PayPal&lt;/a&gt; or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-grin-alt&quot;&gt;&lt;/i&gt; &lt;strong&gt;Bonus for &lt;em&gt;Star Wars&lt;/em&gt; Fans!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zheln subscription enables you to change the icon of a given Zheln record to a &lt;em&gt;Star Wars&lt;/em&gt; symbol of your choice! Learn more on the Zheln subscription platforms: &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All Other Zheln Features Are Free for Everyone&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com/search&quot;&gt;Search for Appraisals&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fas fa-user-md&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com/browse&quot;&gt;Browse by AMA Specialty&lt;/a&gt;,&lt;/strong&gt; &lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://zheln.com&quot;&gt;Read Twice-Weekly Appraisal Summaries&lt;/a&gt;,&lt;/strong&gt; or &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt; &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ&quot;&gt;Watch Daily Video Appraisals on YouTube&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/summary/2020/12/19/2/</link>
+        <guid isPermaLink="true">https://zheln.com/summary/2020/12/19/2/</guid>
+        
+        
+        <category>summary</category>
+        
+      </item>
+    
+      <item>
+        <title>Record Awaiting Appraisal</title>
+        <description>&lt;p&gt;&lt;small id=&quot;citation&quot;&gt;Zhelnov P. A critical appraisal of &lt;em&gt;‘Meneses JCBC, Borges JWP, Silva ARVD, Viana MCA, Rebouças VCF, Alencar AMPG. The effects of felted foam in diabetic foot treatment: systematic review with meta-analysis. Rev Esc Enferm USP. 2020 Dec 11;54:e03640. Portuguese, English. &lt;a href=&quot;https://doi.org/10.1590/S1980-220X2019026903640&quot;&gt;doi: 10.1590/S1980-220X2019026903640&lt;/a&gt;. &lt;a href=&quot;https://pubmed.gov/33331499&quot;&gt;PMID: 33331499&lt;/a&gt;’.&lt;/em&gt; Zheln. 2020 Dec 19;51(2):r99d17. URI: https://zheln.com/record/2020/12/17/99/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Zheln Review Appraisal in 10 Steps:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;✅ Downloaded from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md&quot;&gt;PubMed Systematic Subset&lt;/a&gt; Daily Updates&lt;/li&gt;
+    &lt;li&gt;🔄 Meets &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; True Positive Criteria for Systematic Reviews by Either Title or Abstract?&lt;/li&gt;
+    &lt;li&gt;🔄 Full Text or Other Reports Collected by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?&lt;/li&gt;
+    &lt;li&gt;🔄 Is Duplicate?&lt;/li&gt;
+    &lt;li&gt;🔄 Passed or Failed Replication?&lt;/li&gt;
+    &lt;li&gt;🔄 Has Critical Conduct Flaws?&lt;/li&gt;
+    &lt;li&gt;🔄 Liked or Disliked by &lt;strong&gt;Zheln&lt;/strong&gt;?&lt;/li&gt;
+    &lt;li&gt;🔄 Practical Implications Summarized by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Appraisal Published &amp;amp; Call for Crowdfunding&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have uploaded this record from PubMed but haven’t appraised it yet.&lt;/p&gt;
+
+  &lt;p&gt;If you want me to appraise this record, I’ve got several options for you:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Wait until I get my hands on it myself.&lt;/li&gt;
+    &lt;li&gt;Buy a subscription on &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt; for $1 to $600 and PM me with the review request.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;Send me $1 via PayPal&lt;/a&gt; with this reference in the message, and I’ll happily appraise it for you.&lt;/li&gt;
+    &lt;li&gt;Contact me by &lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;email&lt;/a&gt; or on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;, and I’m sure we’ll find a way around.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/record/2020/12/17/99/</link>
+        <guid isPermaLink="true">https://zheln.com/record/2020/12/17/99/</guid>
+        
+        <category>awaiting appraisal</category>
+        
+        
+        <category>record</category>
+        
+      </item>
+    
+      <item>
+        <title>Record Awaiting Appraisal</title>
+        <description>&lt;p&gt;&lt;small id=&quot;citation&quot;&gt;Zhelnov P. A critical appraisal of &lt;em&gt;‘Floriani ID, Borgmann AV, Barreto MR, Ribeiro ER. EXPOSURE OF PEDIATRIC EMERGENCY PATIENTS TO IMAGING EXAMS, NOWADAYS AND IN TIMES OF COVID-19: AN INTEGRATIVE REVIEW. Rev Paul Pediatr. 2020 Dec 18;40:e2020302. English, Portuguese. &lt;a href=&quot;https://doi.org/10.1590/1984-0462/2022/40/2020302&quot;&gt;doi: 10.1590/1984-0462/2022/40/2020302&lt;/a&gt;. &lt;a href=&quot;https://pubmed.gov/33331510&quot;&gt;PMID: 33331510&lt;/a&gt;’.&lt;/em&gt; Zheln. 2020 Dec 19;51(2):r98d17. URI: https://zheln.com/record/2020/12/17/98/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Zheln Review Appraisal in 10 Steps:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;✅ Downloaded from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md&quot;&gt;PubMed Systematic Subset&lt;/a&gt; Daily Updates&lt;/li&gt;
+    &lt;li&gt;🔄 Meets &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; True Positive Criteria for Systematic Reviews by Either Title or Abstract?&lt;/li&gt;
+    &lt;li&gt;🔄 Full Text or Other Reports Collected by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?&lt;/li&gt;
+    &lt;li&gt;🔄 Is Duplicate?&lt;/li&gt;
+    &lt;li&gt;🔄 Passed or Failed Replication?&lt;/li&gt;
+    &lt;li&gt;🔄 Has Critical Conduct Flaws?&lt;/li&gt;
+    &lt;li&gt;🔄 Liked or Disliked by &lt;strong&gt;Zheln&lt;/strong&gt;?&lt;/li&gt;
+    &lt;li&gt;🔄 Practical Implications Summarized by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Appraisal Published &amp;amp; Call for Crowdfunding&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have uploaded this record from PubMed but haven’t appraised it yet.&lt;/p&gt;
+
+  &lt;p&gt;If you want me to appraise this record, I’ve got several options for you:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Wait until I get my hands on it myself.&lt;/li&gt;
+    &lt;li&gt;Buy a subscription on &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt; for $1 to $600 and PM me with the review request.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;Send me $1 via PayPal&lt;/a&gt; with this reference in the message, and I’ll happily appraise it for you.&lt;/li&gt;
+    &lt;li&gt;Contact me by &lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;email&lt;/a&gt; or on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;, and I’m sure we’ll find a way around.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/record/2020/12/17/98/</link>
+        <guid isPermaLink="true">https://zheln.com/record/2020/12/17/98/</guid>
+        
+        <category>awaiting appraisal</category>
+        
+        
+        <category>record</category>
+        
+      </item>
+    
+      <item>
+        <title>Record Awaiting Appraisal</title>
+        <description>&lt;p&gt;&lt;small id=&quot;citation&quot;&gt;Zhelnov P. A critical appraisal of &lt;em&gt;‘Baldaçara L, Grudtner RR, da S Leite V, Porto DM, Robis KP, Fidalgo TM, Rocha GA, Diaz AP, Meleiro A, Correa H, Tung TC, Malloy-Diniz L, Quevedo J, da Silva AG. Brazilian Psychiatric Association guidelines for the management of suicidal behavior. Part 2. Screening, intervention, and prevention. Braz J Psychiatry. 2020 Dec 9:S1516-44462020005039201. &lt;a href=&quot;https://doi.org/10.1590/1516-4446-2020-1108&quot;&gt;doi: 10.1590/1516-4446-2020-1108&lt;/a&gt;. Epub ahead of print. &lt;a href=&quot;https://pubmed.gov/33331533&quot;&gt;PMID: 33331533&lt;/a&gt;’.&lt;/em&gt; Zheln. 2020 Dec 19;51(2):r97d17. URI: https://zheln.com/record/2020/12/17/97/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Zheln Review Appraisal in 10 Steps:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;✅ Downloaded from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md&quot;&gt;PubMed Systematic Subset&lt;/a&gt; Daily Updates&lt;/li&gt;
+    &lt;li&gt;🔄 Meets &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; True Positive Criteria for Systematic Reviews by Either Title or Abstract?&lt;/li&gt;
+    &lt;li&gt;🔄 Full Text or Other Reports Collected by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?&lt;/li&gt;
+    &lt;li&gt;🔄 Is Duplicate?&lt;/li&gt;
+    &lt;li&gt;🔄 Passed or Failed Replication?&lt;/li&gt;
+    &lt;li&gt;🔄 Has Critical Conduct Flaws?&lt;/li&gt;
+    &lt;li&gt;🔄 Liked or Disliked by &lt;strong&gt;Zheln&lt;/strong&gt;?&lt;/li&gt;
+    &lt;li&gt;🔄 Practical Implications Summarized by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Appraisal Published &amp;amp; Call for Crowdfunding&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have uploaded this record from PubMed but haven’t appraised it yet.&lt;/p&gt;
+
+  &lt;p&gt;If you want me to appraise this record, I’ve got several options for you:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Wait until I get my hands on it myself.&lt;/li&gt;
+    &lt;li&gt;Buy a subscription on &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt; for $1 to $600 and PM me with the review request.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;Send me $1 via PayPal&lt;/a&gt; with this reference in the message, and I’ll happily appraise it for you.&lt;/li&gt;
+    &lt;li&gt;Contact me by &lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;email&lt;/a&gt; or on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;, and I’m sure we’ll find a way around.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/record/2020/12/17/97/</link>
+        <guid isPermaLink="true">https://zheln.com/record/2020/12/17/97/</guid>
+        
+        <category>awaiting appraisal</category>
+        
+        
+        <category>record</category>
+        
+      </item>
+    
+      <item>
+        <title>Record Awaiting Appraisal</title>
+        <description>&lt;p&gt;&lt;small id=&quot;citation&quot;&gt;Zhelnov P. A critical appraisal of &lt;em&gt;‘Wang M, Zhou Y, Huang W, Zeng Y, Li X. Association between matrix metalloproteinase-1 (MMP-1) protein level and the risk of rheumatoid arthritis and osteoarthritis: a meta-analysis. Braz J Med Biol Res. 2020 Dec 9;54(2):e10366. &lt;a href=&quot;https://doi.org/10.1590/1414-431X202010366&quot;&gt;doi: 10.1590/1414-431X202010366&lt;/a&gt;. &lt;a href=&quot;https://pubmed.gov/33331536&quot;&gt;PMID: 33331536&lt;/a&gt;’.&lt;/em&gt; Zheln. 2020 Dec 19;51(2):r96d17. URI: https://zheln.com/record/2020/12/17/96/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Zheln Review Appraisal in 10 Steps:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;✅ Downloaded from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md&quot;&gt;PubMed Systematic Subset&lt;/a&gt; Daily Updates&lt;/li&gt;
+    &lt;li&gt;🔄 Meets &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; True Positive Criteria for Systematic Reviews by Either Title or Abstract?&lt;/li&gt;
+    &lt;li&gt;🔄 Full Text or Other Reports Collected by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?&lt;/li&gt;
+    &lt;li&gt;🔄 Is Duplicate?&lt;/li&gt;
+    &lt;li&gt;🔄 Passed or Failed Replication?&lt;/li&gt;
+    &lt;li&gt;🔄 Has Critical Conduct Flaws?&lt;/li&gt;
+    &lt;li&gt;🔄 Liked or Disliked by &lt;strong&gt;Zheln&lt;/strong&gt;?&lt;/li&gt;
+    &lt;li&gt;🔄 Practical Implications Summarized by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Appraisal Published &amp;amp; Call for Crowdfunding&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have uploaded this record from PubMed but haven’t appraised it yet.&lt;/p&gt;
+
+  &lt;p&gt;If you want me to appraise this record, I’ve got several options for you:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Wait until I get my hands on it myself.&lt;/li&gt;
+    &lt;li&gt;Buy a subscription on &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt; for $1 to $600 and PM me with the review request.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;Send me $1 via PayPal&lt;/a&gt; with this reference in the message, and I’ll happily appraise it for you.&lt;/li&gt;
+    &lt;li&gt;Contact me by &lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;email&lt;/a&gt; or on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;, and I’m sure we’ll find a way around.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/record/2020/12/17/96/</link>
+        <guid isPermaLink="true">https://zheln.com/record/2020/12/17/96/</guid>
+        
+        <category>awaiting appraisal</category>
+        
+        
+        <category>record</category>
+        
+      </item>
+    
+      <item>
+        <title>Record Awaiting Appraisal</title>
+        <description>&lt;p&gt;&lt;small id=&quot;citation&quot;&gt;Zhelnov P. A critical appraisal of &lt;em&gt;‘Torricelli FCM, Carvalho RS, Marchini GS, Danilovic A, Vicentini FC, Batagello CA, Srougi M, Nahas WC, Mazzucchi E. Bilateral simultaneous percutaneous nephrolithotomy versus staged approach: a critical analysis of complications and renal function. Rev Assoc Med Bras (1992). 2020 Dec;66(12):1696-1701. &lt;a href=&quot;https://doi.org/10.1590/1806-9282.66.12.1696&quot;&gt;doi: 10.1590/1806-9282.66.12.1696&lt;/a&gt;. &lt;a href=&quot;https://pubmed.gov/33331579&quot;&gt;PMID: 33331579&lt;/a&gt;’.&lt;/em&gt; Zheln. 2020 Dec 19;51(2):r95d17. URI: https://zheln.com/record/2020/12/17/95/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Zheln Review Appraisal in 10 Steps:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;✅ Downloaded from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md&quot;&gt;PubMed Systematic Subset&lt;/a&gt; Daily Updates&lt;/li&gt;
+    &lt;li&gt;🔄 Meets &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; True Positive Criteria for Systematic Reviews by Either Title or Abstract?&lt;/li&gt;
+    &lt;li&gt;🔄 Full Text or Other Reports Collected by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?&lt;/li&gt;
+    &lt;li&gt;🔄 Is Duplicate?&lt;/li&gt;
+    &lt;li&gt;🔄 Passed or Failed Replication?&lt;/li&gt;
+    &lt;li&gt;🔄 Has Critical Conduct Flaws?&lt;/li&gt;
+    &lt;li&gt;🔄 Liked or Disliked by &lt;strong&gt;Zheln&lt;/strong&gt;?&lt;/li&gt;
+    &lt;li&gt;🔄 Practical Implications Summarized by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Appraisal Published &amp;amp; Call for Crowdfunding&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have uploaded this record from PubMed but haven’t appraised it yet.&lt;/p&gt;
+
+  &lt;p&gt;If you want me to appraise this record, I’ve got several options for you:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Wait until I get my hands on it myself.&lt;/li&gt;
+    &lt;li&gt;Buy a subscription on &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt; for $1 to $600 and PM me with the review request.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;Send me $1 via PayPal&lt;/a&gt; with this reference in the message, and I’ll happily appraise it for you.&lt;/li&gt;
+    &lt;li&gt;Contact me by &lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;email&lt;/a&gt; or on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;, and I’m sure we’ll find a way around.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/record/2020/12/17/95/</link>
+        <guid isPermaLink="true">https://zheln.com/record/2020/12/17/95/</guid>
+        
+        <category>awaiting appraisal</category>
+        
+        
+        <category>record</category>
+        
+      </item>
+    
+      <item>
+        <title>Record Awaiting Appraisal</title>
+        <description>&lt;p&gt;&lt;small id=&quot;citation&quot;&gt;Zhelnov P. A critical appraisal of &lt;em&gt;‘Rocha CATD, Kamada LMK, Andrade Filho PH, Villaverde IA, Shiro JYB, Silva Junior JMD. Ultrasonographic evaluation of gastric content and volume: a systematic review. Rev Assoc Med Bras (1992). 2020 Dec;66(12):1725-1730. &lt;a href=&quot;https://doi.org/10.1590/1806-9282.66.12.1725&quot;&gt;doi: 10.1590/1806-9282.66.12.1725&lt;/a&gt;. &lt;a href=&quot;https://pubmed.gov/33331584&quot;&gt;PMID: 33331584&lt;/a&gt;’.&lt;/em&gt; Zheln. 2020 Dec 19;51(2):r94d17. URI: https://zheln.com/record/2020/12/17/94/.&lt;/small&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Zheln Review Appraisal in 10 Steps:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;✅ Downloaded from the &lt;a href=&quot;https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md&quot;&gt;PubMed Systematic Subset&lt;/a&gt; Daily Updates&lt;/li&gt;
+    &lt;li&gt;🔄 Meets &lt;a href=&quot;https://www.researchgate.net/publication/11820967_Taking_Advantage_of_the_Explosion_of_Systematic_Reviews_An_Efficient_MEDLINE_Search_Strategy&quot;&gt;Shojania &amp;amp; Bero 2001&lt;/a&gt; True Positive Criteria for Systematic Reviews by Either Title or Abstract?&lt;/li&gt;
+    &lt;li&gt;🔄 Full Text or Other Reports Collected by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Generates Pragmatic Evidence Directly Relevant to Evidence-Based Practice?&lt;/li&gt;
+    &lt;li&gt;🔄 Is Duplicate?&lt;/li&gt;
+    &lt;li&gt;🔄 Passed or Failed Replication?&lt;/li&gt;
+    &lt;li&gt;🔄 Has Critical Conduct Flaws?&lt;/li&gt;
+    &lt;li&gt;🔄 Liked or Disliked by &lt;strong&gt;Zheln&lt;/strong&gt;?&lt;/li&gt;
+    &lt;li&gt;🔄 Practical Implications Summarized by &lt;strong&gt;Zheln&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;🔄 Appraisal Published &amp;amp; Call for Crowdfunding&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have uploaded this record from PubMed but haven’t appraised it yet.&lt;/p&gt;
+
+  &lt;p&gt;If you want me to appraise this record, I’ve got several options for you:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Wait until I get my hands on it myself.&lt;/li&gt;
+    &lt;li&gt;Buy a subscription on &lt;a href=&quot;https://patreon.com/zheln&quot;&gt;Patreon&lt;/a&gt;, &lt;a href=&quot;https://github.com/sponsors/drzhelnov&quot;&gt;GitHub Sponsors&lt;/a&gt;, or &lt;a href=&quot;https://opencollective.com/zheln&quot;&gt;Open Collective&lt;/a&gt; for $1 to $600 and PM me with the review request.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://paypal.me/pjelnov&quot;&gt;Send me $1 via PayPal&lt;/a&gt; with this reference in the message, and I’ll happily appraise it for you.&lt;/li&gt;
+    &lt;li&gt;Contact me by &lt;a href=&quot;mailto:pavel@zheln.com&quot;&gt;email&lt;/a&gt; or on &lt;a href=&quot;https://twitter.com/drzhelnov&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/drzhelnov&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/igzheln&quot;&gt;Instagram&lt;/a&gt;, or &lt;a href=&quot;https://t.me/drzhelnov&quot;&gt;Telegram&lt;/a&gt;, and I’m sure we’ll find a way around.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://zheln.com/record/2020/12/17/94/</link>
+        <guid isPermaLink="true">https://zheln.com/record/2020/12/17/94/</guid>
+        
+        <category>awaiting appraisal</category>
+        
+        
+        <category>record</category>
+        
+      </item>
+    
+  </channel>
+</rss>
