@@ -4,7 +4,7 @@ email: pavel@zheln.com
 description: "All new systematic reviews from PubMed tagged with AMA specialties for free. Important reviews critically appraised on YouTube. Methods: http://osf.io/y2nrb"
 baseurl: ""
 url: "https://zheln.com"
-title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://doi.org/10.17605/OSF.IO/Z3JU7\">Systematic Review Subset</a>, tag them with <a href=\"https://www.ama-assn.org/specialty\">AMA specialties</a>, and critically appraise the most appealing reviews daily on <a href=\"https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ\">YouTube</a>. My appraisals are very thorough, see <em>Methods</em> (<a href=\"https://doi.org/10.31222/osf.io/y2nrb\">DOI 10.31222/osf.io/y2nrb</a>). This is independent research supported by crowdfunding only. Please consider sending me $1 via <a href=\"https://paypal.me/pjelnov\">PayPal</a> or buying a $1 to $600 subscription on <a href=\"https://patreon.com/zheln\">Patreon</a>, <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a>, or <a href=\"https://opencollective.com/zheln\">Open Collective</a>, where you can also learn more about myself."
+title_description: "I check <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://doi.org/10.17605/OSF.IO/Z3JU7\">Systematic Review Subset</a>, tag them with <a href=\"https://www.ama-assn.org/specialty\">AMA specialties</a>, and critically appraise the most appealing reviews daily on <a href=\"https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ\">YouTube</a>. My appraisals are very thorough, see <em>Methods</em> (<a href=\"https://doi.org/10.31222/osf.io/y2nrb\">DOI 10.31222/osf.io/y2nrb</a>). This is independent research supported by crowdfunding only. Please consider sending me $1 via <a href=\"https://paypal.me/pjelnov\">PayPal</a> or buying a $1 to $600 subscription on <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a> or <a href=\"https://opencollective.com/zheln\">Open Collective</a>, where you can also learn more about myself."
 title_image: /favicons/android-chrome-512x512.png
 google_analytics: "UA-122303329-3"
 disqus_account: 
@@ -218,7 +218,7 @@ paypal_username: pjelnov
 instagram_username: igzheln
 reddit_username:
 telegram_username: tgzheln
-patreon_username: zheln
+patreon_username:
 linkedin_link: 
 google_plus_link: 
 stackoverflow_link: 
