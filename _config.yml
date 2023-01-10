@@ -4,7 +4,7 @@ email: pavel@zheln.com
 description: "All new systematic reviews from PubMed tagged with AMA specialties for free. Important reviews critically appraised on YouTube. Methods: http://osf.io/y2nrb"
 baseurl: ""
 url: "https://zheln.com"
-title_description: "<strong>Zheln had been on hold since December 30, 2020, due to a lack of funding, and was discontinued on April 6, 2022, in favor of <a href=\"https://zheln.com/summary/2022/04/06/suppl/#zheln-as-service\">Zheln as Service</a>.</strong><br>I checked <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://doi.org/10.17605/OSF.IO/Z3JU7\">Systematic Review Subset</a>, tagged them with <a href=\"https://www.ama-assn.org/specialty\">AMA specialties</a>, and critically appraised the most appealing reviews daily on <a href=\"https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ\">YouTube</a>. My appraisals are very thorough, see <em>Methods</em> (<a href=\"https://doi.org/10.31222/osf.io/y2nrb\">DOI 10.31222/osf.io/y2nrb</a>). This was independent research supported by crowdfunding only. Please visit <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a> or <a href=\"https://opencollective.com/zheln\">Open Collective</a> to learn more about myself."
+title_description: "<strong><a href=\"https://zheln.com/summary/2022/04/06/suppl/#zheln-as-service\">Zheln as Service</a> is currently available for hire<br>through <a href=\"https://www.upwork.com/freelancers/~01b30dbd94172f6c5a\">Upwork</a> or&nbsp;<a href=\"https://www.freelancer.com/u/drzhelnov\">Freelancer.com</a>.</strong><br><br>The original Zheln had been on hold since December 30, 2020, due to a lack of funding, and was discontinued on April 6, 2022, in favor of <a href=\"https://zheln.com/summary/2022/04/06/suppl/#zheln-as-service\">Zheln as Service</a>.<br>I checked <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://doi.org/10.17605/OSF.IO/Z3JU7\">Systematic Review Subset</a>, tagged them with <a href=\"https://www.ama-assn.org/specialty\">AMA specialties</a>, and critically appraised the most appealing reviews daily on <a href=\"https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ\">YouTube</a>. My appraisals are very thorough, see <em>Methods</em> (<a href=\"https://doi.org/10.31222/osf.io/y2nrb\">DOI 10.31222/osf.io/y2nrb</a>). This was independent research supported by crowdfunding only. Please visit <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a> or <a href=\"https://opencollective.com/zheln\">Open Collective</a> to learn more about myself."
 title_image: /favicons/android-chrome-512x512.png
 google_analytics: "UA-122303329-3"
 disqus_account: 
@@ -214,7 +214,7 @@ VS: "Vascular Surgery"
 # Social usernames/URLs
 twitter_username: drzhelnov
 github_sponsors_username: drzhelnov
-paypal_username: pjelnov
+#paypal_username: pjelnov
 instagram_username: igzheln
 reddit_username:
 telegram_username: tgzheln
@@ -224,12 +224,12 @@ google_plus_link:
 stackoverflow_link: 
 xing_link:
 facebook_link: https://www.facebook.com/drzhelnov
-youtube_link: https://www.youtube.com/channel/UCMNQzA3-71TyD-fVbXnxfKQ
+youtube_link: https://www.youtube.com/@drzhelnov
 tiktok_username: 
 
 # Footer
 footer_left: "Website template Carte Noire made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>—Licensed under <a href=\"https://raw.githubusercontent.com/jacobtomlinson/carte-noire/gh-pages/LICENSE\">GPL v3</a>.<br />Original Woodpecker Icon by <a href=\"https://thenounproject.com/parkasever/\">Anton</a>—Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode\">CC BY 3.0</a>."
-footer_right: "<i class=\"fas fa-graduation-cap\"></i> <a href=\"https://doi.org/10.31222/osf.io/y2nrb\">Methods</a> | <i class=\"fas fa-tasks\"></i> <a href=\"https://github.com/drzhelnov/zheln.github.io/projects/\">Kanbans</a><br />&lt;/&gt; on <a href=\"https://github.com/drzhelnov/zheln.github.io\">GitHub</a> &nbsp;<i class=\"fa fa-github-alt\"></i><br />&copy; <a href=\"https://zheln.com\">Zheln</a>, 2020&ndash;2022 | <i class=\"far fa-heart\"></i> <a href=\"https://github.com/sponsors/drzhelnov\">Support</a>"
+footer_right: "<i class=\"fas fa-graduation-cap\"></i> <a href=\"https://doi.org/10.31222/osf.io/y2nrb\">Methods</a> | <i class=\"fas fa-tasks\"></i> <a href=\"https://github.com/drzhelnov/zheln.github.io/projects/\">Kanbans</a><br />&lt;/&gt; on <a href=\"https://github.com/drzhelnov/zheln.github.io\">GitHub</a> &nbsp;<i class=\"fa fa-github-alt\"></i><br />&copy; <a href=\"https://zheln.com\">Zheln</a>, 2020&ndash;2023 | <i class=\"far fa-heart\"></i> <a href=\"https://github.com/sponsors/drzhelnov\">Support</a>"
 
 # Build settings
 markdown: kramdown
