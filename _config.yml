@@ -1,14 +1,15 @@
 # Site settings
 title: "Zheln"
 email: pavel@zheln.com
-description: "All new systematic reviews from PubMed tagged with AMA specialties for free. Important reviews critically appraised on YouTube. Methods: http://osf.io/y2nrb"
+description: "Weekly updates on high-quality and impactful health research. Methods: http://osf.io/y2nrb"
 baseurl: ""
 url: "https://zheln.com"
-title_description: "<strong><a href=\"https://zheln.com/summary/2022/04/06/suppl/#zheln-as-service\">Zheln as Service</a> is currently available for hire through <a href=\"https://www.upwork.com/freelancers/~01b30dbd94172f6c5a\">Upwork</a>.<br>Alternatively, feel free to <a href=\"https://drzhelnov.com\">contact Pavel</a> directly.</strong><br><br>The original Zheln had been on hold since December 30, 2020, due to a lack of funding, and was discontinued on April 6, 2022, in favor of <a href=\"https://zheln.com/summary/2022/04/06/suppl/#zheln-as-service\">Zheln as Service</a>.<br>I checked <a href=\"https://pubmed.gov\">PubMed</a> for updates in the <a href=\"https://doi.org/10.17605/OSF.IO/Z3JU7\">Systematic Review Subset</a>, tagged them with <a href=\"https://www.ama-assn.org/specialty\">AMA specialties</a>, and critically appraised the most appealing reviews daily on <a href=\"https://www.youtube.com/@drzhelnov\">YouTube</a>. My appraisals are very thorough, see <em>Methods</em> (<a href=\"https://doi.org/10.31222/osf.io/y2nrb\">DOI 10.31222/osf.io/y2nrb</a>). This was independent research supported by crowdfunding only. Please visit <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a> or <a href=\"https://opencollective.com/zheln\">Open Collective</a> to learn more about myself."
+
+title_description: "<strong><a href=\"https://zheln.com/summary/2022/04/06/suppl/#zheln-as-service\">Zheln as Service</a> is currently available for hire through .<br>Alternatively, feel free to <a href=\"https://drzhelnov.github.io\">contact Pavel</a> directly.</strong><br><br>Zheln <a href=\"https://doi.org/10.31222/osf.io/y2nrb\">monitors</a> a major health research database, <a href=\"https://pubmed.gov\">PubMed</a>, for weekly updates. Select 39% of high-quality and impactful studies are featured on the website. This is an affiliation-free, nonprofit, self-funded project, partially supported through fee-for-service work and crowdfunding. <a href=\"https://github.com/sponsors/drzhelnov\">Subscribe</a> to receive email updates and support the content creation."
 title_image: /favicons/android-chrome-512x512.png
 google_analytics: "UA-122303329-3"
 disqus_account: 
-github_repository: https://github.com/drzhelnov/zheln.github.io
+#github_repository: https://github.com/drzhelnov/zheln.github.io
 addthis_id: ra-5eb4ca836b1983cd
 post_limit: 3
 paginate: 4
@@ -212,7 +213,7 @@ VN: "Vascular Neurology"
 VS: "Vascular Surgery"
 
 # Social usernames/URLs
-twitter_username: drzhelnov
+#twitter_username: drzhelnov
 github_sponsors_username: drzhelnov
 #paypal_username: pjelnov
 instagram_username: igzheln
@@ -223,7 +224,7 @@ linkedin_link:
 google_plus_link: 
 stackoverflow_link: 
 xing_link:
-facebook_link: https://www.facebook.com/drzhelnov
+#facebook_link: https://www.facebook.com/drzhelnov
 youtube_link: https://www.youtube.com/@drzhelnov
 tiktok_username: 
 
