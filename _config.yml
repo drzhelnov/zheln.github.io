@@ -233,8 +233,8 @@ youtube_link: https://www.youtube.com/@drzhelnov
 tiktok_username: the_trash_scientist
 
 # Footer
-footer_left: "Website template Carte Noire made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>—Licensed under <a href=\"https://raw.githubusercontent.com/jacobtomlinson/carte-noire/gh-pages/LICENSE\">GPL v3</a>.<br />Original Woodpecker Icon by <a href=\"https://thenounproject.com/parkasever/\">Anton</a>—Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode\">CC BY 3.0</a>."
-footer_right: "<i class=\"fas fa-graduation-cap\"></i> <a href=\"https://doi.org/10.31222/osf.io/y2nrb\">Methods</a> | <i class=\"fas fa-tasks\"></i> <a href=\"https://github.com/drzhelnov/zheln.github.io/projects/\">Kanbans</a><br />&lt;/&gt; on <a href=\"https://github.com/drzhelnov/zheln.github.io\">GitHub</a> &nbsp;<i class=\"fa fa-github-alt\"></i><br />&copy; <a href=\"https://zheln.com\">Zheln</a>, 2020&ndash;2023 | <i class=\"far fa-heart\"></i> <a href=\"https://github.com/sponsors/drzhelnov\">Support</a>"
+footer_left: "Website template Carte Noire made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>—Licensed under <a href=\"https://raw.githubusercontent.com/jacobtomlinson/carte-noire/gh-pages/LICENSE\">GPL v3</a>."
+footer_right: "<i class=\"fas fa-graduation-cap\"></i> <a href=\"https://doi.org/10.31222/osf.io/y2nrb\">Methods</a> | &lt;/&gt; on <a href=\"https://github.com/drzhelnov/zheln.github.io\">GitHub</a> &nbsp;<i class=\"fa fa-github-alt\"></i><br />&copy; <a href=\"https://zheln.com\">Zheln</a>, 2020&ndash;2023 | <i class=\"far fa-heart\"></i> <a href=\"https://github.com/sponsors/drzhelnov\">Support</a>"
 
 # Build settings
 markdown: kramdown
