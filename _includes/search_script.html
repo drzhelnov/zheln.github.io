@@ -6,7 +6,7 @@
       resultsContainer: document.getElementById('results-container'),
       dataSource: '{{ site.baseurl }}/search.json',
       searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
-      noResultsText: 'No appraisals found',
+      noResultsText: '{{ site.search_no_results_text }}',
       limit: 10,
       fuzzy: true,
     })

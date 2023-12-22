@@ -4,17 +4,17 @@ layout: none
 [
   {% for post in site.posts %}
       {
-        {% if post.categories contains "record" %}
-        {% assign content = post.content | strip_html | strip_newlines %}
-        {% unless content contains site.step_2_fail %}
-        "title"      : "{{ post.title | escape }}",
-        "categories" : "{{ post.categories | join: ', ' }}",
-        "tags"       : "{{ post.tags | join: ', ' }}",
-        "url"        : "{{ site.baseurl }}{{ post.url }}",
-        "date"       : "{{ post.date }}",
-        "content"    : "{{ content }}"
+        {% unless post.title == site.record_awaiting_appraisal %}
+          {% assign content = post.content | regex_replace: site.search_href_pattern, site.search_href_replacement | strip_html | strip_newlines %}
+          {% unless content contains site.step_2_fail %}
+            "title"      : "{{ post.title | escape }}",
+            "categories" : "{{ post.categories | join: ', ' }}",
+            "tags"       : "{{ post.tags | join: ', ' }}",
+            "url"        : "{{ site.baseurl }}{{ post.url }}",
+            "date"       : "{{ post.date }}",
+            "content"    : "{{ content }}"
+          {% endunless %}
         {% endunless %}
-        {% endif %}
       }
       {% unless forloop.last %},{% endunless %}
   {% endfor %}
