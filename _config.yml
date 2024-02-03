@@ -29,6 +29,7 @@ search_href_replacement: '\2 (\1)'
 specialty_page_headline: "By AMA Specialty"
 specialty_page_no_posts: "<ul><li>Unfortunately, no posts have been tagged with this specialty yet.</li><li>Please come back later, or consider making a donation as small as $1 to support my processing of thousands of records weekly either on <a href=\"https://patreon.com/zheln\">Patreon</a>, <a href=\"https://github.com/sponsors/drzhelnov\">GitHub Sponsors</a>, <a href=\"https://opencollective.com/zheln\">Open Collective</a>.</li><li>Also, you can <a href=\"/browse/\">browse other specialties</a> using the tag cloud or <a href=\"/search/\">look for appraisals directly</a> using the search box.</li><li>In any case, you are welcome to get in touch with me by <a href=\"mailto:pavel@zheln.com\">email</a> or using any of my social links below.</li></ul>"
 ssb_link: "https://doi.org/10.17605/osf.io/z3ju7"
+latest_headline: "Latest Research Stories"
 day_page_headline: "From Replicated PubMed Systematic Subset"
 day_page_header: "Zheln Records"
 day_page_before_label: "« Day Before"
