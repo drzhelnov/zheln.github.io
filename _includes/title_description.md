@@ -1,4 +1,4 @@
-**If you want to contract [Zheln as Service][zaas] or simply reach out, contact us via [email][email], [LinkedIn][in], or [Instagram][ig].**
+**If you want to contract [Zheln as Service][zaas] or simply reach out,<br>contact us via [email][email], [LinkedIn][in], or [Instagram][ig].**
 
 Hi, this is [Pavel Zhelnov][cv]. I monitor the U.S. [National Library of Medicine][pubmed]’s weekly research updates. With the help of other researchers, journalists, and multiple AI tools, I select high-quality and impactful studies and feature them on this website. I record the entire process using [Stone][stone] transparency software. [Read whitepaper.][whitepaper]
 
@@ -8,7 +8,7 @@ This is an affiliation-free, nonprofit project. I self-fund this work, depending
 
 [zaas]: {{ site.zaas }}
 
-[email]: {{ site.email }}
+[email]: mailto:{{ site.email }}
 
 [in]: {{ site.linkedin_link }}
 

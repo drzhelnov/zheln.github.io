@@ -1,4 +1,5 @@
 <p class="links">
+  {% if site.email %}<a href="mailto:{{ site.email }}" target="_new"><i class="far fa-envelope"></i></a>{% endif %}
   {% if site.github_repository %}<a href="{{ site.github_repository }}" target="_new"><i class="fab fa-github"></i></a>{% endif %}
   {% if site.twitter_username %}<a href="https://x.com/{{ site.twitter_username }}" target="_new"><i class="fa fa-twitter"></i></a>{% endif %}
   {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fa fa-linkedin"></i></a>{% endif %}
@@ -6,7 +7,6 @@
   {% if site.google_plus_link %}<a href="{{ site.google_plus_link }}" target="_new"><i class="fa fa-google-plus"></i></a>{% endif %}
   {% if site.facebook_link %}<a href="{{ site.facebook_link }}" target="_new"><i class="fa fa-facebook"></i></a>{% endif %}
   {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_new"><i class="fa fa-github-alt"></i></a>{% endif %}
-  {% if site.email %}<a href="mailto:{{ site.email }}" target="_new"><i class="far fa-envelope"></i></a>{% endif %}
   {% if site.github_sponsors_username %}<a href="https://github.com/sponsors/{{ site.github_sponsors_username }}" target="_new"><i class="far fa-heart"></i></a>{% endif %}
   {% if site.paypal_username %}<a href="https://paypal.me/{{ site.paypal_username }}" target="_new"><i class="fab fa-cc-paypal"></i></a>{% endif %}
   {% if site.stackoverflow_link %}<a href="{{ site.stackoverflow_link }}" target="_new"><i class="fa fa-stack-overflow"></i></a>{% endif %}
