@@ -16,7 +16,8 @@ make-smaller-titles: false
             <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
 
             <div class="author-text">
-                {{ site.title_description }}
+                {% capture title_description %}{% include title_description.md %}{% endcapture %}
+                {{ title_description | markdownify }}
             </div>
 
             {% include social_links.html %}
