@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://zheln.com"
 whitepaper: "https://doi.org/10.31222/osf.io/y2nrb"
 zaas: "https://zheln.com/summary/2022/04/06/suppl/#zheln-as-service"
-cv: "https://drzhelnov.github.io"
+cv: "https://pavel.zheln.com/cv/"
 
 #title_description: ""
 title_image: /favicons/android-chrome-512x512.png
